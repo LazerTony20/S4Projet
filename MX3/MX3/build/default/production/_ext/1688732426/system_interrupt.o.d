@@ -357,7 +357,8 @@ build/default/production/_ext/1688732426/system_interrupt.o: \
  ../src/system_config/default/framework/tcpip/tcpip_commands.h \
  ../src/system_config/default/framework/tcpip/tftps.h \
  ../src/system_config/default/framework/driver/ethmac/drv_ethmac.h \
- ../src/system_config/default/system_definitions.h ../src/accel.h
+ ../src/system_config/default/system_definitions.h ../src/accel.h \
+ ../src/ctrl.h ../src/swt.h
 
 ../src/system_config/default/framework/system/common/sys_common.h:
 
@@ -1080,3 +1081,7 @@ build/default/production/_ext/1688732426/system_interrupt.o: \
 ../src/system_config/default/system_definitions.h:
 
 ../src/accel.h:
+
+../src/ctrl.h:
+
+../src/swt.h:

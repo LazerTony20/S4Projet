@@ -63,6 +63,8 @@ SUBSTITUTE GOODS, TECHNOLOGY, SERVICES, OR ANY CLAIMS BY THIRD PARTIES
 #include "main.h"
 #include "system_definitions.h"
 #include "accel.h"
+#include "ctrl.h"
+#include "swt.h"
 
 // *****************************************************************************
 // *****************************************************************************
@@ -78,7 +80,44 @@ void __ISR(_UART_4_VECTOR, ipl1AUTO) _IntHandlerDrvUsartInstance0(void)
 
 void __ISR(_EXTERNAL_4_VECTOR, IPL1AUTO) _IntHandlerExternalInterruptInstance0(void)
 {
+  int accelX, accelY, accelZ;
+  int val;
+  int dir;
+  static int last_dir = 0;
+
   ACL_ReadRawValues(accel_buffer);
+  accelX = ((signed int)accel_buffer[0] << 24) >> 20 | accel_buffer[1] >> 4; // VR
+  accelY = ((signed int)accel_buffer[2] << 24) >> 20 | accel_buffer[3] >> 4; // VR
+  accelZ = ((signed int)accel_buffer[4] << 24) >> 20 | accel_buffer[5] >> 4; // VR
+
+  dir = SWT_GetValue(6);
+  if(last_dir != dir)
+  {
+    if (dir == 1)
+      LCD_WriteStringAtPos("H", 1, 15);
+    else
+      LCD_WriteStringAtPos("B", 1, 15);
+  }
+  last_dir = dir;
+
+  if (dir == 1 && accelX > 700 && accelY < 700)
+    val = 1;
+  else if (dir == 0 && accelX < -700 && accelY < 700)
+    val = 1;
+  else
+    val = 0;
+
+  if (val == 1)
+  {
+    LED_SetValue(4, 1);
+    ctrl.btns.bits.star_power = 1;
+  }
+  else
+  {
+    LED_SetValue(4, 0);
+    ctrl.btns.bits.star_power = 0;
+  }
+
   ACL_GetRegister(ACL_INT_SOURCE);
   accel_data_ready = true;
   PLIB_INT_SourceFlagClear(INT_ID_0, INT_SOURCE_EXTERNAL_4);

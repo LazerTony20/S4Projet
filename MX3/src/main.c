@@ -169,7 +169,7 @@ void MAIN_Initialize(void)
   PMODS_InitPin(1, 10, 1, 1, 0);
   PMODS_InitPin(0, 9, 1, 1, 0); // start
   PMODS_InitPin(0, 8, 1, 1, 0);
-  DST_Init();
+  // DST_Init();
   CTRL_Init();
 }
 
@@ -260,7 +260,8 @@ void TMR3_Init(void)
 void __ISR(_TIMER_3_VECTOR, IPL1AUTO) Timer3ISR(void)
 {
   static unsigned int last_distance;
-  unsigned int distance = DST_Get();
+  // unsigned int distance = DST_Get();
+  unsigned int distance = 10;
 
   if (distance < 44 || (distance > 300 && last_distance < 100))
     distance = 44;
