@@ -89,6 +89,7 @@ SUBSTITUTE GOODS, TECHNOLOGY, SERVICES, OR ANY CLAIMS BY THIRD PARTIES
  */
 
 MAIN_DATA mainData;
+int UDP_Compteur;
 
 void TMR3_Init(void);
 
@@ -152,12 +153,14 @@ void MAIN_Initialize(void)
   mainData.state = MAIN_STATE_INIT;
 
   mainData.handleUSART0 = DRV_HANDLE_INVALID;
+  
+  UDP_Compteur = 0;
 
   UDP_Initialize();
   LCD_Init();
   I2C_Init(400000);
   ACL_Init();
-  SSD_Init();
+  //SSD_Init();
   TMR3_Init();
 
   PMODS_InitPin(1, 2, 1, 1, 0);
@@ -169,7 +172,7 @@ void MAIN_Initialize(void)
   PMODS_InitPin(1, 10, 1, 1, 0);
   PMODS_InitPin(0, 9, 1, 1, 0); // start
   PMODS_InitPin(0, 8, 1, 1, 0);
-  // DST_Init();
+  DST_Init();
   CTRL_Init();
 }
 
@@ -209,7 +212,7 @@ void MAIN_Tasks(void)
   case MAIN_STATE_SERVICE_TASKS:
   {
     LedTask();
-    accel_tasks();
+    //accel_tasks();
     UDP_Tasks();
     ManageSwitches();
 
@@ -224,6 +227,34 @@ void MAIN_Tasks(void)
     break;
   }
   }
+}
+
+/*******************************************************************************
+  Function:
+    void remplissage_UDP ( void )
+
+  Remarks:
+    See prototype in main.h.
+ */
+void remplissage_UDP(unsigned int distance)
+{
+  //int i;
+  //for(i = 0; i <= 253; i++)
+  //{
+     // UDP_Send_Buffer[i] = UDP_Send_Buffer[i+2];
+  //} 
+    
+  UDP_Send_Buffer[2*UDP_Compteur] = (char)(distance >> 8);
+  UDP_Send_Buffer[2*UDP_Compteur+1] = (char)distance;
+  
+  UDP_Compteur++;
+  
+  if(UDP_Compteur > 127)
+  {
+    UDP_Compteur = 0;
+    sendTask();
+  }
+  
 }
 
 int main(void)
@@ -245,7 +276,7 @@ int main(void)
 
 void TMR3_Init(void)
 {
-  PR3 = (int)(((float)(0.05 * PB_FRQ) / 256) + 0.5); // set period register, generates one interrupt every 50 ms                     //             set period register, generates one interrupt every 300 us
+  PR3 = (int)(((float)(0.025 * PB_FRQ) / 256) + 0.5); // set period register, generates one interrupt every 25 ms                     //             set period register, generates one interrupt every 300 us
   TMR3 = 0;                                          //    initialize count to 0
   T3CONbits.TCKPS = 7;                               //    1:256 prescaler value
   T3CONbits.TGATE = 0;                               //    not gated input (the default)
@@ -260,11 +291,12 @@ void TMR3_Init(void)
 void __ISR(_TIMER_3_VECTOR, IPL1AUTO) Timer3ISR(void)
 {
   static unsigned int last_distance;
-  // unsigned int distance = DST_Get();
-  unsigned int distance = 10;
-
-  if (distance < 44 || (distance > 300 && last_distance < 100))
-    distance = 44;
+  unsigned int distance = DST_Get();  // pourquoi on redefinie le type de la variable a chaque fois??
+  
+  remplissage_UDP(distance);
+  
+  if (distance < 45 || (distance > 300 && last_distance < 100))
+    distance = 45;
   else if (distance > 300)
     distance = 300;
   last_distance = distance;
@@ -307,8 +339,10 @@ void __ISR(_TIMER_3_VECTOR, IPL1AUTO) Timer3ISR(void)
 
   CTRL_Refresh();
 
-  // distance = DST_Get();
+  //distance = DST_Get();
+  //distance = 50;
   LCD_WriteIntAtPos(distance, 6, 0, 0, 0);
+  LCD_WriteIntAtPos((int)reception[0], 3, 0, 10, 0);
   IFS0bits.T3IF = 0; // clear interrupt flag
 }
 

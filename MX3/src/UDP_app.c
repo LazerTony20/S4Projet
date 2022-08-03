@@ -132,6 +132,12 @@ void UDP_Initialize ( void ) {
     appData.clientState = UDP_TCPIP_WAIT_INIT;
     appData.serverState = UDP_TCPIP_WAIT_INIT;
     
+    int i = 0;
+    for(i = 0; i<255; i++)
+    {
+        UDP_Send_Buffer[i] = 0;
+    }
+    
     /* TODO: Initialize your application's state machine and other
      */
     UDP_Commands_Init();
@@ -259,18 +265,6 @@ void _UDP_ClientTasks() {
                     TCPIP_UDP_Discard(appData.clientSocket);
                     UDP_bytes_received = sizeof(UDP_Receive_Buffer)-1;
                 }
-                //UDP_Receive_Buffer[UDP_bytes_received] = '\0';    //append a null to display strings properly
-                //a[i]= (UDP_Receive_Buffer[0] << 24 | UDP_Receive_Buffer[1] << 16 |  UDP_Receive_Buffer[2] << 8 |  UDP_Receive_Buffer[3])>>3;
-                //b[i]= (UDP_Receive_Buffer[4] << 24 | UDP_Receive_Buffer[5] << 16 |  UDP_Receive_Buffer[6] << 8 |  UDP_Receive_Buffer[7])>>3;
-                //c[i]= (UDP_Receive_Buffer[8] << 24 | UDP_Receive_Buffer[9] << 16 |  UDP_Receive_Buffer[10] << 8 |  UDP_Receive_Buffer[11])>>3;
-                
-//                 for(j = 0; j < 32; j++)
-//                 {
-//                      reception[j] = ((int)(UDP_Receive_Buffer[4*j]) & 0x000000FF) << 24;
-//                      reception[j] += ((int)(UDP_Receive_Buffer[(4*j)+1]) & 0x000000FF) << 16;
-//                      reception[j] += ((int)(UDP_Receive_Buffer[(4*j)+2]) & 0x000000FF) << 8;
-//                      reception[j] += ((int)(UDP_Receive_Buffer[(4*j)+3]) & 0x000000FF);
-//                 }
 
                 reception[0] = UDP_Receive_Buffer[0];
                 reception[1] = UDP_Receive_Buffer[1];

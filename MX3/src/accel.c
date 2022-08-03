@@ -119,7 +119,7 @@ void accel_tasks()
         LCD_WriteStringAtPos(outbuf, 0, 0);
         sprintf(outbuf, "Y: %02x%01x Z: %02x%01x", accel_buffer[2], accel_buffer[3] >> 4, accel_buffer[4], accel_buffer[5] >> 4);
         LCD_WriteStringAtPos(outbuf, 1, 0);*/
-        SSD_WriteDigitsGrouped(count++, 0x1);
+        //SSD_WriteDigitsGrouped(count++, 0x1);
         accel_data_ready = false;
     }
 }

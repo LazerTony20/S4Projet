@@ -118,8 +118,8 @@ void __ISR(_EXTERNAL_4_VECTOR, IPL1AUTO) _IntHandlerExternalInterruptInstance0(v
     ctrl.btns.bits.star_power = 0;
   }
 
-  ACL_GetRegister(ACL_INT_SOURCE);
-  accel_data_ready = true;
+  //ACL_GetRegister(ACL_INT_SOURCE);
+  //accel_data_ready = true;
   PLIB_INT_SourceFlagClear(INT_ID_0, INT_SOURCE_EXTERNAL_4);
 }
 

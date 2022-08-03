@@ -76,6 +76,8 @@ SUBSTITUTE GOODS, TECHNOLOGY, SERVICES, OR ANY CLAIMS BY THIRD PARTIES
     determine the behavior of the application at various times.
 */
 
+extern char reception[3];
+
 typedef enum
 {
   UDP_TCPIP_WAIT_INIT,

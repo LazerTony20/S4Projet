@@ -169,6 +169,7 @@ extern "C"
   */
 
   void MAIN_Initialize(void);
+  void remplissage_UDP(unsigned int distance);
 
   /*******************************************************************************
     Function:
