@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="S4e_Depart_Code_Vitis" location="C:/Users/audre/workspace/S4e_Depart/S4e_Depart.Vitis/S4e_Depart_Code_Vitis" platform="C:/Users/audre/workspace/S4e_Depart/S4e_Depart.Vitis/main_design_wrapper/export/main_design_wrapper/main_design_wrapper.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="S4e_Depart_Code_Vitis_system" sysConfig="main_design_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="a813bc5ce48f909f2a28b3a54be8a900">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.376238855">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1807607368" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

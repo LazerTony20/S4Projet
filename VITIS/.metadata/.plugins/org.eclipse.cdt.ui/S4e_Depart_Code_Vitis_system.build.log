@@ -1,0 +1,6 @@
+12:34:43 **** Build of configuration Debug for project S4e_Depart_Code_Vitis_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+12:34:43 Build Finished (took 216ms)
+

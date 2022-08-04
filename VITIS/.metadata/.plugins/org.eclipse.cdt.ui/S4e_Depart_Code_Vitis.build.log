@@ -1,0 +1,141 @@
+12:34:35 **** Build of configuration Debug for project S4e_Depart_Code_Vitis ****
+make all 
+'Building file: ../src/cyclone_tcp/std_services/echo.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/std_services/echo.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/std_services/echo.d" -MT"src/cyclone_tcp/std_services/echo.o" -o "src/cyclone_tcp/std_services/echo.o" "../src/cyclone_tcp/std_services/echo.c"
+'Finished building: ../src/cyclone_tcp/std_services/echo.c'
+' '
+'Building file: ../src/cyclone_tcp/ipv4/arp.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/ipv4/arp.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/ipv4/arp.d" -MT"src/cyclone_tcp/ipv4/arp.o" -o "src/cyclone_tcp/ipv4/arp.o" "../src/cyclone_tcp/ipv4/arp.c"
+'Finished building: ../src/cyclone_tcp/ipv4/arp.c'
+' '
+'Building file: ../src/cyclone_tcp/ipv4/ipv4.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/ipv4/ipv4.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/ipv4/ipv4.d" -MT"src/cyclone_tcp/ipv4/ipv4.o" -o "src/cyclone_tcp/ipv4/ipv4.o" "../src/cyclone_tcp/ipv4/ipv4.c"
+'Finished building: ../src/cyclone_tcp/ipv4/ipv4.c'
+' '
+'Building file: ../src/cyclone_tcp/drivers/eth/enc624j600_driver.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/drivers/eth/enc624j600_driver.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/drivers/eth/enc624j600_driver.d" -MT"src/cyclone_tcp/drivers/eth/enc624j600_driver.o" -o "src/cyclone_tcp/drivers/eth/enc624j600_driver.o" "../src/cyclone_tcp/drivers/eth/enc624j600_driver.c"
+../src/cyclone_tcp/drivers/eth/enc624j600_driver.c: In function 'enc624j600UpdateMacConfig':
+../src/cyclone_tcp/drivers/eth/enc624j600_driver.c:565:1: warning: control reaches end of non-void function [-Wreturn-type]
+  565 | }
+      | ^
+'Finished building: ../src/cyclone_tcp/drivers/eth/enc624j600_driver.c'
+' '
+'Building file: ../src/cyclone_tcp/core/ethernet.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/ethernet.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/ethernet.d" -MT"src/cyclone_tcp/core/ethernet.o" -o "src/cyclone_tcp/core/ethernet.o" "../src/cyclone_tcp/core/ethernet.c"
+'Finished building: ../src/cyclone_tcp/core/ethernet.c'
+' '
+'Building file: ../src/cyclone_tcp/core/ip.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/ip.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/ip.d" -MT"src/cyclone_tcp/core/ip.o" -o "src/cyclone_tcp/core/ip.o" "../src/cyclone_tcp/core/ip.c"
+'Finished building: ../src/cyclone_tcp/core/ip.c'
+' '
+'Building file: ../src/cyclone_tcp/core/net.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/net.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/net.d" -MT"src/cyclone_tcp/core/net.o" -o "src/cyclone_tcp/core/net.o" "../src/cyclone_tcp/core/net.c"
+'Finished building: ../src/cyclone_tcp/core/net.c'
+' '
+'Building file: ../src/cyclone_tcp/core/net_mem.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/net_mem.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/net_mem.d" -MT"src/cyclone_tcp/core/net_mem.o" -o "src/cyclone_tcp/core/net_mem.o" "../src/cyclone_tcp/core/net_mem.c"
+'Finished building: ../src/cyclone_tcp/core/net_mem.c'
+' '
+'Building file: ../src/cyclone_tcp/core/nic.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/nic.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/nic.d" -MT"src/cyclone_tcp/core/nic.o" -o "src/cyclone_tcp/core/nic.o" "../src/cyclone_tcp/core/nic.c"
+'Finished building: ../src/cyclone_tcp/core/nic.c'
+' '
+'Building file: ../src/cyclone_tcp/core/socket.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/socket.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/socket.d" -MT"src/cyclone_tcp/core/socket.o" -o "src/cyclone_tcp/core/socket.o" "../src/cyclone_tcp/core/socket.c"
+../src/cyclone_tcp/core/socket.c: In function 'getHostByName':
+../src/cyclone_tcp/core/socket.c:1071:21: warning: variable 'protocol' set but not used [-Wunused-but-set-variable]
+ 1071 |    HostnameResolver protocol = HOST_NAME_RESOLVER_ANY;
+      |                     ^~~~~~~~
+'Finished building: ../src/cyclone_tcp/core/socket.c'
+' '
+'Building file: ../src/cyclone_tcp/core/udp.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/udp.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/udp.d" -MT"src/cyclone_tcp/core/udp.o" -o "src/cyclone_tcp/core/udp.o" "../src/cyclone_tcp/core/udp.c"
+'Finished building: ../src/cyclone_tcp/core/udp.c'
+' '
+'Building file: ../src/cyclone_tcp/ext_int_driver.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/ext_int_driver.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/ext_int_driver.d" -MT"src/cyclone_tcp/ext_int_driver.o" -o "src/cyclone_tcp/ext_int_driver.o" "../src/cyclone_tcp/ext_int_driver.c"
+'Finished building: ../src/cyclone_tcp/ext_int_driver.c'
+' '
+'Building file: ../src/cyclone_tcp/spi_driver.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/spi_driver.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/spi_driver.d" -MT"src/cyclone_tcp/spi_driver.o" -o "src/cyclone_tcp/spi_driver.o" "../src/cyclone_tcp/spi_driver.c"
+'Finished building: ../src/cyclone_tcp/spi_driver.c'
+' '
+'Building file: ../src/common/cpu_endian.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/common/cpu_endian.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common/cpu_endian.d" -MT"src/common/cpu_endian.o" -o "src/common/cpu_endian.o" "../src/common/cpu_endian.c"
+'Finished building: ../src/common/cpu_endian.c'
+' '
+'Building file: ../src/common/date_time.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/common/date_time.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common/date_time.d" -MT"src/common/date_time.o" -o "src/common/date_time.o" "../src/common/date_time.c"
+'Finished building: ../src/common/date_time.c'
+' '
+'Building file: ../src/common/os_port_none.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/common/os_port_none.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common/os_port_none.d" -MT"src/common/os_port_none.o" -o "src/common/os_port_none.o" "../src/common/os_port_none.c"
+'Finished building: ../src/common/os_port_none.c'
+' '
+'Building file: ../src/FIFO_FFT_driver.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/FIFO_FFT_driver.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/FIFO_FFT_driver.d" -MT"src/FIFO_FFT_driver.o" -o "src/FIFO_FFT_driver.o" "../src/FIFO_FFT_driver.c"
+../src/FIFO_FFT_driver.c:42:2: warning: "/*" within comment [-Wcomment]
+   42 |  /*
+      |   
+'Finished building: ../src/FIFO_FFT_driver.c'
+' '
+'Building file: ../src/fft.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/fft.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/fft.d" -MT"src/fft.o" -o "src/fft.o" "../src/fft.c"
+../src/fft.c: In function 'initFIFO_FFT':
+../src/fft.c:67:2: warning: implicit declaration of function 'SetupInterruptSystem' [-Wimplicit-function-declaration]
+   67 |  SetupInterruptSystem();
+      |  ^~~~~~~~~~~~~~~~~~~~
+../src/fft.c:64:6: warning: variable 'Status' set but not used [-Wunused-but-set-variable]
+   64 |  int Status;
+      |      ^~~~~~
+../src/fft.c: In function 'do_forward_FFT':
+../src/fft.c:81:6: warning: unused variable 'Status' [-Wunused-variable]
+   81 |  int Status = XLlFifoSendData(&FifoInstance, FIFO_FFT_ID, dataToFFT);
+      |      ^~~~~~
+'Finished building: ../src/fft.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/main.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'systemInit':
+../src/main.c:84:12: warning: variable 'error' set but not used [-Wunused-but-set-variable]
+   84 |    error_t error;
+      |            ^~~~~
+../src/main.c: In function 'SetupInterruptSystem':
+../src/main.c:151:6: warning: variable 'Status' set but not used [-Wunused-but-set-variable]
+  151 |  int Status;
+      |      ^~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: S4e_Depart_Code_Vitis.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bsplib/lib -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -Wl,--gc-sections -o "S4e_Depart_Code_Vitis.elf"  ./src/cyclone_tcp/std_services/echo.o  ./src/cyclone_tcp/ipv4/arp.o ./src/cyclone_tcp/ipv4/ipv4.o  ./src/cyclone_tcp/drivers/eth/enc624j600_driver.o  ./src/cyclone_tcp/core/ethernet.o ./src/cyclone_tcp/core/ip.o ./src/cyclone_tcp/core/net.o ./src/cyclone_tcp/core/net_mem.o ./src/cyclone_tcp/core/nic.o ./src/cyclone_tcp/core/socket.o ./src/cyclone_tcp/core/udp.o  ./src/cyclone_tcp/ext_int_driver.o ./src/cyclone_tcp/spi_driver.o  ./src/common/cpu_endian.o ./src/common/date_time.o ./src/common/os_port_none.o  ./src/FIFO_FFT_driver.o ./src/fft.o ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: S4e_Depart_Code_Vitis.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size S4e_Depart_Code_Vitis.elf  |tee "S4e_Depart_Code_Vitis.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 113600	   1988	  14012	 129600	  1fa40	S4e_Depart_Code_Vitis.elf
+'Finished building: S4e_Depart_Code_Vitis.elf.size'
+' '
+
+12:34:42 Build Finished (took 7s.289ms)
+

@@ -1,0 +1,696 @@
+12:34:11 **** Build of project main_design_wrapper ****
+buildplatform.bat 58004 main_design_wrapper  
+XSDB Server Channel: tcfchan#4
+Building the zynq_fsbl application.
+make: Entering directory 'C:/Users/antho/Desktop/VITIS/main_design_wrapper/zynq_fsbl/zynq_fsbl_bsp'
+
+make --no-print-directory seq_libs
+
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+ard -nostartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src"
+
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+d -nostartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_7/src"
+
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_12/src"
+
+make -C ps7_cortexa9_0/libsrc/emacps_v3_12/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+tartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_8/src"
+
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_8/src"
+
+make -C ps7_cortexa9_0/libsrc/qspips_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_3/src"
+
+make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_3/src"
+
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+startfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src"
+
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_10/src"
+
+make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_3/src"
+
+make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+nostartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_10/src"
+
+make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+tartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_6/src"
+
+make -C ps7_cortexa9_0/libsrc/usbps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_5/src"
+
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_4/src"
+
+make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+files -g -Wall -Wextra"
+
+'Finished building libraries sequentially.'
+
+make -j --no-print-directory par_libs
+
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+ard -nostartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src"
+
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+d -nostartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_7/src"
+
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_12/src"
+
+make -C ps7_cortexa9_0/libsrc/emacps_v3_12/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+tartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_8/src"
+
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_8/src"
+
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_3/src"
+
+make -C ps7_cortexa9_0/libsrc/qspips_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_3/src"
+
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+startfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src"
+
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_10/src"
+
+make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_3/src"
+
+make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+nostartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_10/src"
+
+make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+tartfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_6/src"
+
+make -C ps7_cortexa9_0/libsrc/usbps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_5/src"
+
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_4/src"
+
+make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+ "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+artfiles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+ -nostartfiles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src"
+
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+nostartfiles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+iles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+files -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_7/src"
+
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+iles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_12/src"
+
+make -C ps7_cortexa9_0/libsrc/emacps_v3_12/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+tfiles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_8/src"
+
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+files -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_8/src"
+
+make -C ps7_cortexa9_0/libsrc/qspips_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+files -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_3/src"
+
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+rtfiles -g -Wall -Wextra"
+
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+files -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_3/src"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_10/src"
+
+make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+files -g -Wall -Wextra"
+
+make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+iles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_3/src"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_10/src"
+
+make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+tartfiles -g -Wall -Wextra"
+
+make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+tfiles -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v4_4/src"
+
+make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+files -g -Wall -Wextra"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_6/src"
+
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_5/src"
+
+make -C ps7_cortexa9_0/libsrc/usbps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+iles -g -Wall -Wextra"
+
+In file included from usleep.c:34:
+xtime_l.h:65:9: note: #pragma message: For the sleep routines, Global timer is being used
+   65 | #pragma message ("For the sleep routines, Global timer is being used")
+      |         ^~~~~~~
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+files -g -Wall -Wextra"
+
+In file included from xtime_l.c:27:
+xtime_l.h:65:9: note: #pragma message: For the sleep routines, Global timer is being used
+   65 | #pragma message ("For the sleep routines, Global timer is being used")
+      |         ^~~~~~~
+In file included from xil_sleeptimer.c:32:
+xtime_l.h:65:9: note: #pragma message: For the sleep routines, Global timer is being used
+   65 | #pragma message ("For the sleep routines, Global timer is being used")
+      |         ^~~~~~~
+In file included from sleep.c:31:
+xtime_l.h:65:9: note: #pragma message: For the sleep routines, Global timer is being used
+   65 | #pragma message ("For the sleep routines, Global timer is being used")
+      |         ^~~~~~~
+'Finished building libraries parallelly.'
+
+make --no-print-directory archive
+
+arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/xadcps_selftest.o ps7_corte
+xa9_0/lib/kill.o ps7_cortexa9_0/lib/xscuwdt_g.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/xqspips_options.o ps7_co
+rtexa9_0/lib/print.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xsdps_card.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_co
+rtexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/l
+ib/xscugic_intr.o ps7_cortexa9_0/lib/xadcps_intr.o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xuartps_sinit.o ps7_cort
+exa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xemacps.o ps7_cortexa9_0/lib/xil_util.o ps7_corte
+xa9_0/lib/inbyte.o ps7_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/xdmaps_selftest.o ps7_cortexa9_0/lib/xscutimer_selftest.o ps
+7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/
+lib/xgpiops_g.o ps7_cortexa9_0/lib/close.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xsdps.o ps7_cortexa9_0/lib/xil_mem
+.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xgpiops_sinit.o ps7_cortexa9_0/lib/xgpiops_selftest.o ps7_cortexa9_0/lib/
+xqspips_selftest.o ps7_cortexa9_0/lib/translation_table.o ps7_cortexa9_0/lib/write.o ps7_cortexa9_0/lib/xemacps_bdring.o ps7_co
+rtexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/xscugic_g.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xemacps_intr.o p
+s7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/unlink.o ps
+7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xdmaps_hw.o ps7_cortexa9_0/lib/xgpiops_intr.o ps7_cortexa9_0/lib/xscugic_sinit.o p
+s7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o
+ ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/lib/xsdps_options.o ps7_cortexa9_0/lib/_e
+xit.o ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/xgpiops_hw.o ps7_cortexa9_0/lib/xusbps_intr.o ps7_cortexa9_0/lib/xqspips_hw.
+o ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xsdps_sinit
+.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/xdevcfg_g.o
+ ps7_cortexa9_0/lib/xuartps_intr.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/xil_testcache.o 
+ps7_cortexa9_0/lib/xqspips_g.o ps7_cortexa9_0/lib/xemacps_hw.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xscutimer.o ps7_c
+ortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/lib/xdevcfg_selftest.o ps7_cortexa9_0/lib/xusbps_hw.o ps7_cortexa9_0/lib/xqspips.o ps7_c
+ortexa9_0/lib/xemacps_g.o ps7_cortexa9_0/lib/xusbps.o ps7_cortexa9_0/lib/xusbps_sinit.o ps7_cortexa9_0/lib/xemacps_sinit.o ps7_
+cortexa9_0/lib/xusbps_endpoint.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/xgpiops.o ps7_
+cortexa9_0/lib/xsdps_g.o ps7_cortexa9_0/lib/fstat.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/lseek.o ps7_cortexa9_0/lib/xd
+evcfg_sinit.o ps7_cortexa9_0/lib/_sbrk.o ps7_cortexa9_0/lib/vectors.o ps7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/xem
+acps_control.o ps7_cortexa9_0/lib/putnum.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa9_0/lib/xil_assert.o ps7_cortexa9_0/lib
+/xusbps_g.o ps7_cortexa9_0/lib/xsdps_host.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib
+/xscugic.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xil-crt0.o ps7_cortexa9_0/lib/xqspips_sinit.o ps7_cortexa9_0/lib/xa
+dcps_sinit.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/xdevcfg.o
+
+arm-none-eabi-ar: creating ps7_cortexa9_0/lib/libxil.a
+'Finished building libraries'
+
+make: Leaving directory 'C:/Users/antho/Desktop/VITIS/main_design_wrapper/zynq_fsbl/zynq_fsbl_bsp'
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cort
+exa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_
+cortexa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c image_mover.c -o image_mover.o -Izynq
+_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_co
+rtexa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_f
+sbl_bsp/ps7_cortexa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c main.c -o main.o -Izynq_fsbl_bsp/ps7_
+cortexa9_0/include -I.
+
+In file included from main.c:115:
+zynq_fsbl_bsp/ps7_cortexa9_0/include/xtime_l.h:65:9: note: #pragma message: For the sleep routines, Global timer is being used
+   65 | #pragma message ("For the sleep routines, Global timer is being used")
+      |         ^~~~~~~
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_co
+rtexa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_co
+rtexa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_
+cortexa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c ps7_init.c -o ps7_init.o -Izynq_fsbl_
+bsp/ps7_cortexa9_0/include -I.
+
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_
+cortexa9_0/include -I.
+
+In file included from pcap.c:78:
+zynq_fsbl_bsp/ps7_cortexa9_0/include/xtime_l.h:65:9: note: #pragma message: For the sleep routines, Global timer is being used
+   65 | #pragma message ("For the sleep routines, Global timer is being used")
+      |         ^~~~~~~
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c fsbl_handoff.S -o fsbl_handoff.o -Izy
+nq_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+arm-none-eabi-gcc -o fsbl.elf  sd.o  nand.o  image_mover.o  md5.o  fsbl_hooks.o  main.o  rsa.o  nor.o  qspi.o  ps7_init.o  pcap
+.o  fsbl_handoff.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+Wl,-build-id=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgc
+c,-lc,--end-group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                                   -Wl,--gc-sections -Lzyn
+q_fsbl_bsp/ps7_cortexa9_0/lib -L./ -Tlscript.ld
+
+Building the BSP Library for domain  - standalone_microblaze_0 on processor microblaze_0
+make --no-print-directory seq_libs
+
+'Finished building libraries sequentially.'
+
+make -j --no-print-directory par_libs
+
+"Running Make include in microblaze_0/libsrc/bram_v4_5/src"
+
+make -C microblaze_0/libsrc/bram_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt"
+ "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/cpu_v2_12/src"
+
+make -C microblaze_0/libsrc/cpu_v2_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt"
+ "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/intc_v3_12/src"
+
+make -C microblaze_0/libsrc/intc_v3_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+ER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt
+" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/llfifo_v5_5/src"
+
+make -C microblaze_0/libsrc/llfifo_v5_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+LER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqr
+t" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/spi_v4_7/src"
+
+make -C microblaze_0/libsrc/spi_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt" 
+"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/standalone_v7_3/src"
+
+make -C microblaze_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float
+-sqrt" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make libs in microblaze_0/libsrc/bram_v4_5/src"
+
+"Running Make libs in microblaze_0/libsrc/cpu_v2_12/src"
+
+make -C microblaze_0/libsrc/bram_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+LAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt" "E
+XTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+make -C microblaze_0/libsrc/cpu_v2_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+LAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt" "E
+XTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make libs in microblaze_0/libsrc/intc_v3_12/src"
+
+make -C microblaze_0/libsrc/intc_v3_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt" "
+EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make libs in microblaze_0/libsrc/llfifo_v5_5/src"
+
+make -C microblaze_0/libsrc/llfifo_v5_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt" 
+"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make libs in microblaze_0/libsrc/spi_v4_7/src"
+
+make -C microblaze_0/libsrc/spi_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+AGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sqrt" "EX
+TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make libs in microblaze_0/libsrc/standalone_v7_3/src"
+
+make -C microblaze_0/libsrc/standalone_v7_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-float-convert -mxl-float-sq
+rt" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+microblaze_sleep.c:55:9: note: #pragma message: For the sleep routines, assembly instructions are used
+   55 | #pragma message ("For the sleep routines, assembly instructions are used")
+      |         ^~~~~~~
+'Finished building libraries parallelly.'
+
+make --no-print-directory archive
+
+mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/microblaze_disable_exceptions.o microbla
+ze_0/lib/print.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_testio.o microblaze_0/lib/microblaze_disable_dcache.o microblaze
+_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/xspi_g.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/lib
+/xbram_sinit.o microblaze_0/lib/xllfifo.o microblaze_0/lib/xllfifo_g.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib
+/xspi_selftest.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0/lib/inbyte.o microblaze_0/lib/xbram_g.o 
+microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_invalidate_dcac
+he.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/microblaze_interrupt_h
+andler.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/xil_mem.o microblaze_0/lib/xspi_stats.o microblaze_0/lib
+/microblaze_flush_cache_ext_range.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/xil_print
+f.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xintc_l.o microblaze_0/lib/outbyte.o microbla
+ze_0/lib/xllfifo_sinit.o microblaze_0/lib/xstreamer.o microblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/mi
+croblaze_invalidate_cache_ext.o microblaze_0/lib/microblaze_sleep.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xi
+ntc_intr.o microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_selftest.o 
+microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/xspi.o microblaze_0
+/lib/microblaze_enable_dcache.o microblaze_0/lib/xspi_sinit.o microblaze_0/lib/xbram.o microblaze_0/lib/microblaze_invalidate_i
+cache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/
+xspi_options.o microblaze_0/lib/errno.o microblaze_0/lib/xintc_options.o microblaze_0/lib/microblaze_invalidate_cache_ext_range
+.o microblaze_0/lib/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/microblaze_update_ic
+ache.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_assert.o microblaze_0/li
+b/microblaze_enable_interrupts.o microblaze_0/lib/xio.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/xintc.o mi
+croblaze_0/lib/fcntl.o microblaze_0/lib/microblaze_init_icache_range.o
+
+mb-ar: creating microblaze_0/lib/libxil.a
+'Finished building libraries'
+
+12:34:35 **** Build of configuration Debug for project S4e_Depart_Code_Vitis ****
+make all 
+'Building file: ../src/cyclone_tcp/std_services/echo.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/std_services/echo.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/std_services/echo.d" -MT"src/cyclone_tcp/std_services/echo.o" -o "src/cyclone_tcp/std_services/echo.o" "../src/cyclone_tcp/std_services/echo.c"
+'Finished building: ../src/cyclone_tcp/std_services/echo.c'
+' '
+'Building file: ../src/cyclone_tcp/ipv4/arp.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/ipv4/arp.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/ipv4/arp.d" -MT"src/cyclone_tcp/ipv4/arp.o" -o "src/cyclone_tcp/ipv4/arp.o" "../src/cyclone_tcp/ipv4/arp.c"
+'Finished building: ../src/cyclone_tcp/ipv4/arp.c'
+' '
+'Building file: ../src/cyclone_tcp/ipv4/ipv4.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/ipv4/ipv4.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/ipv4/ipv4.d" -MT"src/cyclone_tcp/ipv4/ipv4.o" -o "src/cyclone_tcp/ipv4/ipv4.o" "../src/cyclone_tcp/ipv4/ipv4.c"
+'Finished building: ../src/cyclone_tcp/ipv4/ipv4.c'
+' '
+'Building file: ../src/cyclone_tcp/drivers/eth/enc624j600_driver.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/drivers/eth/enc624j600_driver.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/drivers/eth/enc624j600_driver.d" -MT"src/cyclone_tcp/drivers/eth/enc624j600_driver.o" -o "src/cyclone_tcp/drivers/eth/enc624j600_driver.o" "../src/cyclone_tcp/drivers/eth/enc624j600_driver.c"
+../src/cyclone_tcp/drivers/eth/enc624j600_driver.c: In function 'enc624j600UpdateMacConfig':
+../src/cyclone_tcp/drivers/eth/enc624j600_driver.c:565:1: warning: control reaches end of non-void function [-Wreturn-type]
+  565 | }
+      | ^
+'Finished building: ../src/cyclone_tcp/drivers/eth/enc624j600_driver.c'
+' '
+'Building file: ../src/cyclone_tcp/core/ethernet.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/ethernet.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/ethernet.d" -MT"src/cyclone_tcp/core/ethernet.o" -o "src/cyclone_tcp/core/ethernet.o" "../src/cyclone_tcp/core/ethernet.c"
+'Finished building: ../src/cyclone_tcp/core/ethernet.c'
+' '
+'Building file: ../src/cyclone_tcp/core/ip.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/ip.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/ip.d" -MT"src/cyclone_tcp/core/ip.o" -o "src/cyclone_tcp/core/ip.o" "../src/cyclone_tcp/core/ip.c"
+'Finished building: ../src/cyclone_tcp/core/ip.c'
+' '
+'Building file: ../src/cyclone_tcp/core/net.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/net.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/net.d" -MT"src/cyclone_tcp/core/net.o" -o "src/cyclone_tcp/core/net.o" "../src/cyclone_tcp/core/net.c"
+'Finished building: ../src/cyclone_tcp/core/net.c'
+' '
+'Building file: ../src/cyclone_tcp/core/net_mem.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/net_mem.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/net_mem.d" -MT"src/cyclone_tcp/core/net_mem.o" -o "src/cyclone_tcp/core/net_mem.o" "../src/cyclone_tcp/core/net_mem.c"
+'Finished building: ../src/cyclone_tcp/core/net_mem.c'
+' '
+'Building file: ../src/cyclone_tcp/core/nic.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/nic.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/nic.d" -MT"src/cyclone_tcp/core/nic.o" -o "src/cyclone_tcp/core/nic.o" "../src/cyclone_tcp/core/nic.c"
+'Finished building: ../src/cyclone_tcp/core/nic.c'
+' '
+'Building file: ../src/cyclone_tcp/core/socket.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/socket.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/socket.d" -MT"src/cyclone_tcp/core/socket.o" -o "src/cyclone_tcp/core/socket.o" "../src/cyclone_tcp/core/socket.c"
+../src/cyclone_tcp/core/socket.c: In function 'getHostByName':
+../src/cyclone_tcp/core/socket.c:1071:21: warning: variable 'protocol' set but not used [-Wunused-but-set-variable]
+ 1071 |    HostnameResolver protocol = HOST_NAME_RESOLVER_ANY;
+      |                     ^~~~~~~~
+'Finished building: ../src/cyclone_tcp/core/socket.c'
+' '
+'Building file: ../src/cyclone_tcp/core/udp.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/core/udp.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/core/udp.d" -MT"src/cyclone_tcp/core/udp.o" -o "src/cyclone_tcp/core/udp.o" "../src/cyclone_tcp/core/udp.c"
+'Finished building: ../src/cyclone_tcp/core/udp.c'
+' '
+'Building file: ../src/cyclone_tcp/ext_int_driver.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/ext_int_driver.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/ext_int_driver.d" -MT"src/cyclone_tcp/ext_int_driver.o" -o "src/cyclone_tcp/ext_int_driver.o" "../src/cyclone_tcp/ext_int_driver.c"
+'Finished building: ../src/cyclone_tcp/ext_int_driver.c'
+' '
+'Building file: ../src/cyclone_tcp/spi_driver.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/cyclone_tcp/spi_driver.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/cyclone_tcp/spi_driver.d" -MT"src/cyclone_tcp/spi_driver.o" -o "src/cyclone_tcp/spi_driver.o" "../src/cyclone_tcp/spi_driver.c"
+'Finished building: ../src/cyclone_tcp/spi_driver.c'
+' '
+'Building file: ../src/common/cpu_endian.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/common/cpu_endian.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common/cpu_endian.d" -MT"src/common/cpu_endian.o" -o "src/common/cpu_endian.o" "../src/common/cpu_endian.c"
+'Finished building: ../src/common/cpu_endian.c'
+' '
+'Building file: ../src/common/date_time.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/common/date_time.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common/date_time.d" -MT"src/common/date_time.o" -o "src/common/date_time.o" "../src/common/date_time.c"
+'Finished building: ../src/common/date_time.c'
+' '
+'Building file: ../src/common/os_port_none.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/common/os_port_none.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common/os_port_none.d" -MT"src/common/os_port_none.o" -o "src/common/os_port_none.o" "../src/common/os_port_none.c"
+'Finished building: ../src/common/os_port_none.c'
+' '
+'Building file: ../src/FIFO_FFT_driver.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/FIFO_FFT_driver.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/FIFO_FFT_driver.d" -MT"src/FIFO_FFT_driver.o" -o "src/FIFO_FFT_driver.o" "../src/FIFO_FFT_driver.c"
+../src/FIFO_FFT_driver.c:42:2: warning: "/*" within comment [-Wcomment]
+   42 |  /*
+      |   
+'Finished building: ../src/FIFO_FFT_driver.c'
+' '
+'Building file: ../src/fft.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/fft.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/fft.d" -MT"src/fft.o" -o "src/fft.o" "../src/fft.c"
+../src/fft.c: In function 'initFIFO_FFT':
+../src/fft.c:67:2: warning: implicit declaration of function 'SetupInterruptSystem' [-Wimplicit-function-declaration]
+   67 |  SetupInterruptSystem();
+      |  ^~~~~~~~~~~~~~~~~~~~
+../src/fft.c:64:6: warning: variable 'Status' set but not used [-Wunused-but-set-variable]
+   64 |  int Status;
+      |      ^~~~~~
+../src/fft.c: In function 'do_forward_FFT':
+../src/fft.c:81:6: warning: unused variable 'Status' [-Wunused-variable]
+   81 |  int Status = XLlFifoSendData(&FifoInstance, FIFO_FFT_ID, dataToFFT);
+      |      ^~~~~~
+'Finished building: ../src/fft.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"C:\Users\antho\Desktop\VITIS\S4e_Depart_Code_Vitis\src" -c -fmessage-length=0 -MT"src/main.o" -IC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'systemInit':
+../src/main.c:84:12: warning: variable 'error' set but not used [-Wunused-but-set-variable]
+   84 |    error_t error;
+      |            ^~~~~
+../src/main.c: In function 'SetupInterruptSystem':
+../src/main.c:151:6: warning: variable 'Status' set but not used [-Wunused-but-set-variable]
+  151 |  int Status;
+      |      ^~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: S4e_Depart_Code_Vitis.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/Users/antho/Desktop/VITIS/main_design_wrapper/export/main_design_wrapper/sw/main_design_wrapper/standalone_microblaze_0/bsplib/lib -mlittle-endian -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -Wl,--gc-sections -o "S4e_Depart_Code_Vitis.elf"  ./src/cyclone_tcp/std_services/echo.o  ./src/cyclone_tcp/ipv4/arp.o ./src/cyclone_tcp/ipv4/ipv4.o  ./src/cyclone_tcp/drivers/eth/enc624j600_driver.o  ./src/cyclone_tcp/core/ethernet.o ./src/cyclone_tcp/core/ip.o ./src/cyclone_tcp/core/net.o ./src/cyclone_tcp/core/net_mem.o ./src/cyclone_tcp/core/nic.o ./src/cyclone_tcp/core/socket.o ./src/cyclone_tcp/core/udp.o  ./src/cyclone_tcp/ext_int_driver.o ./src/cyclone_tcp/spi_driver.o  ./src/common/cpu_endian.o ./src/common/date_time.o ./src/common/os_port_none.o  ./src/FIFO_FFT_driver.o ./src/fft.o ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: S4e_Depart_Code_Vitis.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size S4e_Depart_Code_Vitis.elf  |tee "S4e_Depart_Code_Vitis.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 113600	   1988	  14012	 129600	  1fa40	S4e_Depart_Code_Vitis.elf
+'Finished building: S4e_Depart_Code_Vitis.elf.size'
+' '
+12:34:43 **** Build of configuration Debug for project S4e_Depart_Code_Vitis_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."

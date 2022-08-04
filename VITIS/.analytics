@@ -1,0 +1,1006 @@
+timestamp=[2022-06-24 19:11:50], mode=WORKBENCH_START, duration=0:00:05.368, duration_ms=5368, data={}
+timestamp=[2022-06-24 19:11:51], mode=WORKBENCH_UI_INIT, duration=0:00:00.738, duration_ms=738, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-06-24 19:11:53], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.755, duration_ms=2755, data={}
+timestamp=[2022-06-24 19:14:15], mode=PLATFORM_GENERATION, duration=0:00:07.138, duration_ms=7138, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:15:58], mode=PLATFORM_GENERATION, duration=0:01:38.330, duration_ms=98330, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:16:09], mode=PLATFORM_GENERATION, duration=0:00:11.247, duration_ms=11247, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:16:48], mode=PLATFORM_GENERATION, duration=0:00:27.993, duration_ms=27993, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:17:06], mode=BUILD, duration=0:00:13.122, duration_ms=13122, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 19:17:18], mode=BUILD, duration=0:00:00.616, duration_ms=616, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 19:26:57], mode=PLATFORM_GENERATION, duration=0:00:09.687, duration_ms=9687, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:27:15], mode=PLATFORM_GENERATION, duration=0:00:06.665, duration_ms=6665, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:27:43], mode=PLATFORM_GENERATION, duration=0:00:27.621, duration_ms=27621, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:28:04], mode=PLATFORM_GENERATION, duration=0:00:11.949, duration_ms=11949, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:28:06], mode=BUILD, duration=0:00:01.707, duration_ms=1707, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 19:28:07], mode=BUILD, duration=0:00:00.869, duration_ms=869, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 19:28:33], mode=PLATFORM_GENERATION, duration=0:00:06.310, duration_ms=6310, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:28:34], mode=BUILD, duration=0:00:00.510, duration_ms=510, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 19:28:34], mode=BUILD, duration=0:00:00.480, duration_ms=480, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 19:29:11], mode=PLATFORM_GENERATION, duration=0:00:34.883, duration_ms=34883, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:29:30], mode=BUILD, duration=0:00:14.581, duration_ms=14581, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 19:29:41], mode=BUILD, duration=0:00:00.599, duration_ms=599, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 19:44:13], mode=PLATFORM_GENERATION, duration=0:00:14.899, duration_ms=14899, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:45:18], mode=PLATFORM_GENERATION, duration=0:00:38.075, duration_ms=38075, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:45:38], mode=PLATFORM_GENERATION, duration=0:00:10.849, duration_ms=10849, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:45:40], mode=BUILD, duration=0:00:01.731, duration_ms=1731, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 19:45:41], mode=BUILD, duration=0:00:00.739, duration_ms=739, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 19:46:46], mode=PLATFORM_GENERATION, duration=0:00:30.305, duration_ms=30305, data={name=main_design_wrapper}
+timestamp=[2022-06-24 19:47:04], mode=BUILD, duration=0:00:13.556, duration_ms=13556, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 19:47:14], mode=BUILD, duration=0:00:00.588, duration_ms=588, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 20:11:51], mode=PLATFORM_GENERATION, duration=0:00:09.019, duration_ms=9019, data={name=main_design_wrapper}
+timestamp=[2022-06-24 20:13:23], mode=PLATFORM_GENERATION, duration=0:00:31.836, duration_ms=31836, data={name=main_design_wrapper}
+timestamp=[2022-06-24 20:14:00], mode=PLATFORM_GENERATION, duration=0:00:16.538, duration_ms=16538, data={name=main_design_wrapper}
+timestamp=[2022-06-24 20:14:01], mode=BUILD, duration=0:00:01.657, duration_ms=1657, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 20:14:02], mode=BUILD, duration=0:00:00.791, duration_ms=791, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 20:14:31], mode=PLATFORM_GENERATION, duration=0:00:25.898, duration_ms=25898, data={name=main_design_wrapper}
+timestamp=[2022-06-24 20:14:42], mode=BUILD, duration=0:00:06.989, duration_ms=6989, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 20:14:50], mode=BUILD, duration=0:00:01.189, duration_ms=1189, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 20:45:57], mode=PLATFORM_GENERATION, duration=0:00:09.358, duration_ms=9358, data={name=main_design_wrapper}
+timestamp=[2022-06-24 20:46:41], mode=PLATFORM_GENERATION, duration=0:00:30.988, duration_ms=30988, data={name=main_design_wrapper}
+timestamp=[2022-06-24 20:47:06], mode=PLATFORM_GENERATION, duration=0:00:09.653, duration_ms=9653, data={name=main_design_wrapper}
+timestamp=[2022-06-24 20:47:07], mode=BUILD, duration=0:00:01.676, duration_ms=1676, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 20:47:08], mode=BUILD, duration=0:00:00.806, duration_ms=806, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 20:47:53], mode=PLATFORM_GENERATION, duration=0:00:31.640, duration_ms=31640, data={name=main_design_wrapper}
+timestamp=[2022-06-24 20:48:13], mode=BUILD, duration=0:00:11.070, duration_ms=11070, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 20:48:23], mode=BUILD, duration=0:00:00.619, duration_ms=619, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 21:06:21], mode=PLATFORM_GENERATION, duration=0:00:09.711, duration_ms=9711, data={name=main_design_wrapper}
+timestamp=[2022-06-24 21:06:59], mode=PLATFORM_GENERATION, duration=0:00:28.390, duration_ms=28390, data={name=main_design_wrapper}
+timestamp=[2022-06-24 21:07:27], mode=PLATFORM_GENERATION, duration=0:00:12.410, duration_ms=12410, data={name=main_design_wrapper}
+timestamp=[2022-06-24 21:07:29], mode=BUILD, duration=0:00:01.800, duration_ms=1800, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 21:07:30], mode=BUILD, duration=0:00:00.887, duration_ms=887, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 21:08:15], mode=PLATFORM_GENERATION, duration=0:00:25.335, duration_ms=25335, data={name=main_design_wrapper}
+timestamp=[2022-06-24 21:08:33], mode=BUILD, duration=0:00:09.565, duration_ms=9565, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 21:08:42], mode=BUILD, duration=0:00:00.557, duration_ms=557, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 21:21:19], mode=PLATFORM_GENERATION, duration=0:00:09.142, duration_ms=9142, data={name=main_design_wrapper}
+timestamp=[2022-06-24 21:21:57], mode=PLATFORM_GENERATION, duration=0:00:32.180, duration_ms=32180, data={name=main_design_wrapper}
+timestamp=[2022-06-24 21:22:15], mode=PLATFORM_GENERATION, duration=0:00:13.788, duration_ms=13788, data={name=main_design_wrapper}
+timestamp=[2022-06-24 21:22:17], mode=BUILD, duration=0:00:02.056, duration_ms=2056, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 21:22:18], mode=BUILD, duration=0:00:00.833, duration_ms=833, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-24 21:22:48], mode=PLATFORM_GENERATION, duration=0:00:25.028, duration_ms=25028, data={name=main_design_wrapper}
+timestamp=[2022-06-24 21:23:00], mode=BUILD, duration=0:00:08.392, duration_ms=8392, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-24 21:23:11], mode=BUILD, duration=0:00:02.077, duration_ms=2077, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 09:20:06], mode=WORKBENCH_START, duration=0:00:14.385, duration_ms=14385, data={}
+timestamp=[2022-06-25 09:20:06], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.191, duration_ms=191, data={}
+timestamp=[2022-06-25 09:20:07], mode=WORKBENCH_UI_INIT, duration=0:00:01.331, duration_ms=1331, data={editors_count=1, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,S4e_Depart_Code_Vitis,S4e_Depart_Code_Vitis_system,main_design_wrapper}
+timestamp=[2022-06-25 09:21:45], mode=BUILD, duration=0:00:01.964, duration_ms=1964, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 09:21:46], mode=BUILD, duration=0:00:00.992, duration_ms=992, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 09:21:55], mode=PLATFORM_GENERATION, duration=0:00:08.750, duration_ms=8750, data={name=main_design_wrapper}
+timestamp=[2022-06-25 09:22:23], mode=PLATFORM_GENERATION, duration=0:00:27.892, duration_ms=27892, data={name=main_design_wrapper}
+timestamp=[2022-06-25 09:22:40], mode=BUILD, duration=0:00:12.408, duration_ms=12408, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 09:22:48], mode=BUILD, duration=0:00:00.485, duration_ms=485, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 09:53:52], mode=BUILD, duration=0:00:02.104, duration_ms=2104, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 09:53:53], mode=BUILD, duration=0:00:00.926, duration_ms=926, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 09:54:02], mode=PLATFORM_GENERATION, duration=0:00:08.576, duration_ms=8576, data={name=main_design_wrapper}
+timestamp=[2022-06-25 09:54:30], mode=PLATFORM_GENERATION, duration=0:00:27.873, duration_ms=27873, data={name=main_design_wrapper}
+timestamp=[2022-06-25 09:54:42], mode=BUILD, duration=0:00:07.009, duration_ms=7009, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 09:54:54], mode=BUILD, duration=0:00:00.641, duration_ms=641, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 10:14:48], mode=BUILD, duration=0:00:02.291, duration_ms=2291, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 10:14:49], mode=BUILD, duration=0:00:01.034, duration_ms=1034, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 10:15:00], mode=PLATFORM_GENERATION, duration=0:00:11.054, duration_ms=11054, data={name=main_design_wrapper}
+timestamp=[2022-06-25 10:15:34], mode=PLATFORM_GENERATION, duration=0:00:34.364, duration_ms=34364, data={name=main_design_wrapper}
+timestamp=[2022-06-25 10:15:58], mode=BUILD, duration=0:00:13.397, duration_ms=13397, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 10:16:11], mode=BUILD, duration=0:00:01.862, duration_ms=1862, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 10:35:18], mode=BUILD, duration=0:00:02.388, duration_ms=2388, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 10:35:19], mode=BUILD, duration=0:00:01.079, duration_ms=1079, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 10:35:27], mode=PLATFORM_GENERATION, duration=0:00:08.485, duration_ms=8485, data={name=main_design_wrapper}
+timestamp=[2022-06-25 10:35:56], mode=PLATFORM_GENERATION, duration=0:00:28.740, duration_ms=28740, data={name=main_design_wrapper}
+timestamp=[2022-06-25 10:36:16], mode=BUILD, duration=0:00:13.088, duration_ms=13088, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 10:36:30], mode=BUILD, duration=0:00:00.610, duration_ms=610, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 10:49:34], mode=BUILD, duration=0:00:02.257, duration_ms=2257, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 10:49:35], mode=BUILD, duration=0:00:01.100, duration_ms=1100, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 10:49:44], mode=PLATFORM_GENERATION, duration=0:00:09.001, duration_ms=9001, data={name=main_design_wrapper}
+timestamp=[2022-06-25 10:50:17], mode=PLATFORM_GENERATION, duration=0:00:32.655, duration_ms=32655, data={name=main_design_wrapper}
+timestamp=[2022-06-25 10:50:27], mode=BUILD, duration=0:00:06.896, duration_ms=6896, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 10:50:39], mode=BUILD, duration=0:00:00.759, duration_ms=759, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 11:32:14], mode=BUILD, duration=0:00:02.332, duration_ms=2332, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 11:32:16], mode=BUILD, duration=0:00:01.158, duration_ms=1158, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 11:32:24], mode=PLATFORM_GENERATION, duration=0:00:08.621, duration_ms=8621, data={name=main_design_wrapper}
+timestamp=[2022-06-25 11:33:04], mode=PLATFORM_GENERATION, duration=0:00:39.907, duration_ms=39907, data={name=main_design_wrapper}
+timestamp=[2022-06-25 11:33:15], mode=BUILD, duration=0:00:06.775, duration_ms=6775, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 11:33:23], mode=BUILD, duration=0:00:00.998, duration_ms=998, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:07:24], mode=BUILD, duration=0:00:02.395, duration_ms=2395, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:07:25], mode=BUILD, duration=0:00:01.124, duration_ms=1124, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:07:37], mode=PLATFORM_GENERATION, duration=0:00:11.816, duration_ms=11816, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:08:44], mode=PLATFORM_GENERATION, duration=0:01:07.248, duration_ms=67248, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:09:07], mode=BUILD, duration=0:00:08.175, duration_ms=8175, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:09:21], mode=BUILD, duration=0:00:01.468, duration_ms=1468, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:09:35], mode=BUILD, duration=0:00:01.123, duration_ms=1123, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:09:36], mode=BUILD, duration=0:00:00.694, duration_ms=694, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:09:50], mode=PLATFORM_GENERATION, duration=0:00:14.879, duration_ms=14879, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:10:16], mode=PLATFORM_GENERATION, duration=0:00:24.914, duration_ms=24914, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:10:29], mode=BUILD, duration=0:00:08.242, duration_ms=8242, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:10:31], mode=BUILD, duration=0:00:01.252, duration_ms=1252, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:19:37], mode=BUILD, duration=0:00:02.621, duration_ms=2621, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:19:38], mode=BUILD, duration=0:00:01.316, duration_ms=1316, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:19:54], mode=PLATFORM_GENERATION, duration=0:00:15.485, duration_ms=15485, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:20:21], mode=PLATFORM_GENERATION, duration=0:00:26.941, duration_ms=26941, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:20:34], mode=BUILD, duration=0:00:08.416, duration_ms=8416, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:20:36], mode=BUILD, duration=0:00:00.506, duration_ms=506, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:21:41], mode=BUILD, duration=0:00:00.562, duration_ms=562, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:21:41], mode=BUILD, duration=0:00:00.588, duration_ms=588, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:21:53], mode=PLATFORM_GENERATION, duration=0:00:11.723, duration_ms=11723, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:22:16], mode=PLATFORM_GENERATION, duration=0:00:22.590, duration_ms=22590, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:22:26], mode=BUILD, duration=0:00:06.397, duration_ms=6397, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:22:27], mode=BUILD, duration=0:00:00.740, duration_ms=740, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:23:12], mode=BUILD, duration=0:00:00.730, duration_ms=730, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:23:12], mode=BUILD, duration=0:00:00.604, duration_ms=604, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:23:24], mode=PLATFORM_GENERATION, duration=0:00:12.275, duration_ms=12275, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:23:52], mode=PLATFORM_GENERATION, duration=0:00:27.085, duration_ms=27085, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:24:13], mode=BUILD, duration=0:00:17.657, duration_ms=17657, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:24:17], mode=BUILD, duration=0:00:01.566, duration_ms=1566, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:45:46], mode=BUILD, duration=0:00:09.734, duration_ms=9734, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:45:47], mode=BUILD, duration=0:00:00.516, duration_ms=516, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 15:46:09], mode=PLATFORM_GENERATION, duration=0:00:22.441, duration_ms=22441, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:46:43], mode=PLATFORM_GENERATION, duration=0:00:30.633, duration_ms=30633, data={name=main_design_wrapper}
+timestamp=[2022-06-25 15:46:54], mode=BUILD, duration=0:00:07.119, duration_ms=7119, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 15:47:06], mode=BUILD, duration=0:00:00.508, duration_ms=508, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 16:04:30], mode=BUILD, duration=0:00:08.256, duration_ms=8256, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 16:04:31], mode=BUILD, duration=0:00:00.797, duration_ms=797, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 16:04:46], mode=PLATFORM_GENERATION, duration=0:00:14.838, duration_ms=14838, data={name=main_design_wrapper}
+timestamp=[2022-06-25 16:05:25], mode=PLATFORM_GENERATION, duration=0:00:38.920, duration_ms=38920, data={name=main_design_wrapper}
+timestamp=[2022-06-25 16:05:47], mode=BUILD, duration=0:00:15.198, duration_ms=15198, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 16:06:00], mode=BUILD, duration=0:00:00.595, duration_ms=595, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 16:59:27], mode=BUILD, duration=0:00:02.095, duration_ms=2095, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 16:59:28], mode=BUILD, duration=0:00:00.943, duration_ms=943, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 16:59:39], mode=PLATFORM_GENERATION, duration=0:00:10.614, duration_ms=10614, data={name=main_design_wrapper}
+timestamp=[2022-06-25 17:00:11], mode=PLATFORM_GENERATION, duration=0:00:31.334, duration_ms=31334, data={name=main_design_wrapper}
+timestamp=[2022-06-25 17:00:34], mode=BUILD, duration=0:00:19.901, duration_ms=19901, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 17:00:50], mode=BUILD, duration=0:00:05.871, duration_ms=5871, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 18:45:32], mode=BUILD, duration=0:00:02.427, duration_ms=2427, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 18:45:33], mode=BUILD, duration=0:00:01.029, duration_ms=1029, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 18:45:50], mode=PLATFORM_GENERATION, duration=0:00:17.256, duration_ms=17256, data={name=main_design_wrapper}
+timestamp=[2022-06-25 18:46:19], mode=PLATFORM_GENERATION, duration=0:00:28.601, duration_ms=28601, data={name=main_design_wrapper}
+timestamp=[2022-06-25 18:46:26], mode=BUILD, duration=0:00:02.475, duration_ms=2475, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 18:46:30], mode=BUILD, duration=0:00:02.491, duration_ms=2491, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 18:52:11], mode=BUILD, duration=0:00:02.189, duration_ms=2189, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 18:52:12], mode=BUILD, duration=0:00:00.977, duration_ms=977, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 18:52:27], mode=PLATFORM_GENERATION, duration=0:00:14.948, duration_ms=14948, data={name=main_design_wrapper}
+timestamp=[2022-06-25 18:52:56], mode=PLATFORM_GENERATION, duration=0:00:28.767, duration_ms=28767, data={name=main_design_wrapper}
+timestamp=[2022-06-25 18:53:04], mode=BUILD, duration=0:00:04.229, duration_ms=4229, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 18:53:10], mode=BUILD, duration=0:00:01.342, duration_ms=1342, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:00:27], mode=BUILD, duration=0:00:02.162, duration_ms=2162, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:00:28], mode=BUILD, duration=0:00:01.184, duration_ms=1184, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:00:47], mode=PLATFORM_GENERATION, duration=0:00:18.487, duration_ms=18487, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:01:13], mode=PLATFORM_GENERATION, duration=0:00:25.864, duration_ms=25864, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:01:19], mode=BUILD, duration=0:00:02.194, duration_ms=2194, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:01:20], mode=BUILD, duration=0:00:00.496, duration_ms=496, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:05:29], mode=BUILD, duration=0:00:02.055, duration_ms=2055, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:05:30], mode=BUILD, duration=0:00:01.072, duration_ms=1072, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:05:48], mode=PLATFORM_GENERATION, duration=0:00:17.941, duration_ms=17941, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:06:21], mode=PLATFORM_GENERATION, duration=0:00:32.399, duration_ms=32399, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:06:26], mode=BUILD, duration=0:00:01.852, duration_ms=1852, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:06:28], mode=BUILD, duration=0:00:00.694, duration_ms=694, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:08:47], mode=BUILD, duration=0:00:00.752, duration_ms=752, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:08:48], mode=BUILD, duration=0:00:00.535, duration_ms=535, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:08:57], mode=PLATFORM_GENERATION, duration=0:00:09.012, duration_ms=9012, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:09:31], mode=PLATFORM_GENERATION, duration=0:00:33.415, duration_ms=33415, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:09:52], mode=BUILD, duration=0:00:15.809, duration_ms=15809, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:09:54], mode=BUILD, duration=0:00:00.506, duration_ms=506, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:13:23], mode=BUILD, duration=0:00:02.427, duration_ms=2427, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:13:24], mode=BUILD, duration=0:00:01.013, duration_ms=1013, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:13:39], mode=PLATFORM_GENERATION, duration=0:00:14.757, duration_ms=14757, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:14:11], mode=PLATFORM_GENERATION, duration=0:00:32.109, duration_ms=32109, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:14:26], mode=BUILD, duration=0:00:10.562, duration_ms=10562, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:14:34], mode=BUILD, duration=0:00:00.977, duration_ms=977, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:15:43], mode=BUILD, duration=0:00:01.061, duration_ms=1061, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:15:44], mode=BUILD, duration=0:00:00.649, duration_ms=649, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:15:55], mode=PLATFORM_GENERATION, duration=0:00:11.305, duration_ms=11305, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:16:25], mode=PLATFORM_GENERATION, duration=0:00:30.103, duration_ms=30103, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:16:39], mode=BUILD, duration=0:00:10.656, duration_ms=10656, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:16:41], mode=BUILD, duration=0:00:00.613, duration_ms=613, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:19:21], mode=BUILD, duration=0:00:00.648, duration_ms=648, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:19:21], mode=BUILD, duration=0:00:00.505, duration_ms=505, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:19:38], mode=PLATFORM_GENERATION, duration=0:00:17.124, duration_ms=17124, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:20:05], mode=PLATFORM_GENERATION, duration=0:00:25.866, duration_ms=25866, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:20:17], mode=BUILD, duration=0:00:08.672, duration_ms=8672, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:20:19], mode=BUILD, duration=0:00:00.634, duration_ms=634, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:22:12], mode=BUILD, duration=0:00:00.838, duration_ms=838, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:22:13], mode=BUILD, duration=0:00:00.679, duration_ms=679, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:22:24], mode=PLATFORM_GENERATION, duration=0:00:11.098, duration_ms=11098, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:22:56], mode=PLATFORM_GENERATION, duration=0:00:30.984, duration_ms=30984, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:23:16], mode=BUILD, duration=0:00:14.455, duration_ms=14455, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:23:18], mode=BUILD, duration=0:00:00.548, duration_ms=548, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:25:40], mode=BUILD, duration=0:00:00.747, duration_ms=747, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:25:40], mode=BUILD, duration=0:00:00.526, duration_ms=526, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:25:50], mode=PLATFORM_GENERATION, duration=0:00:10.049, duration_ms=10049, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:26:23], mode=PLATFORM_GENERATION, duration=0:00:31.984, duration_ms=31984, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:26:41], mode=BUILD, duration=0:00:12.269, duration_ms=12269, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:26:42], mode=BUILD, duration=0:00:00.577, duration_ms=577, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:29:55], mode=BUILD, duration=0:00:02.680, duration_ms=2680, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:29:56], mode=BUILD, duration=0:00:01.100, duration_ms=1100, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:30:13], mode=PLATFORM_GENERATION, duration=0:00:16.725, duration_ms=16725, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:30:41], mode=PLATFORM_GENERATION, duration=0:00:27.212, duration_ms=27212, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:31:02], mode=BUILD, duration=0:00:16.593, duration_ms=16593, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:31:04], mode=BUILD, duration=0:00:00.504, duration_ms=504, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:36:23], mode=BUILD, duration=0:00:02.340, duration_ms=2340, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:36:24], mode=BUILD, duration=0:00:01.035, duration_ms=1035, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:36:40], mode=PLATFORM_GENERATION, duration=0:00:15.793, duration_ms=15793, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:37:07], mode=PLATFORM_GENERATION, duration=0:00:26.563, duration_ms=26563, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:37:21], mode=BUILD, duration=0:00:10.725, duration_ms=10725, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:37:23], mode=BUILD, duration=0:00:00.511, duration_ms=511, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:48:16], mode=BUILD, duration=0:00:02.608, duration_ms=2608, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:48:18], mode=BUILD, duration=0:00:01.142, duration_ms=1142, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:48:31], mode=PLATFORM_GENERATION, duration=0:00:13.672, duration_ms=13672, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:49:02], mode=PLATFORM_GENERATION, duration=0:00:30.079, duration_ms=30079, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:49:26], mode=BUILD, duration=0:00:17.152, duration_ms=17152, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:49:28], mode=BUILD, duration=0:00:00.507, duration_ms=507, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:53:05], mode=BUILD, duration=0:00:02.408, duration_ms=2408, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:53:06], mode=BUILD, duration=0:00:00.983, duration_ms=983, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 19:53:21], mode=PLATFORM_GENERATION, duration=0:00:14.435, duration_ms=14435, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:53:45], mode=PLATFORM_GENERATION, duration=0:00:24.111, duration_ms=24111, data={name=main_design_wrapper}
+timestamp=[2022-06-25 19:53:56], mode=BUILD, duration=0:00:07.454, duration_ms=7454, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 19:53:58], mode=BUILD, duration=0:00:00.497, duration_ms=497, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:08:23], mode=BUILD, duration=0:00:02.500, duration_ms=2500, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:08:25], mode=BUILD, duration=0:00:01.248, duration_ms=1248, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:08:42], mode=PLATFORM_GENERATION, duration=0:00:17.019, duration_ms=17019, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:09:18], mode=PLATFORM_GENERATION, duration=0:00:35.527, duration_ms=35527, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:09:34], mode=BUILD, duration=0:00:12.882, duration_ms=12882, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:09:36], mode=BUILD, duration=0:00:00.580, duration_ms=580, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:22:30], mode=BUILD, duration=0:00:02.756, duration_ms=2756, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:22:31], mode=BUILD, duration=0:00:01.053, duration_ms=1053, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:22:49], mode=PLATFORM_GENERATION, duration=0:00:17.953, duration_ms=17953, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:23:19], mode=PLATFORM_GENERATION, duration=0:00:28.954, duration_ms=28954, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:23:33], mode=BUILD, duration=0:00:10.840, duration_ms=10840, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:23:39], mode=BUILD, duration=0:00:01.443, duration_ms=1443, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:27:25], mode=BUILD, duration=0:00:02.749, duration_ms=2749, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:27:27], mode=BUILD, duration=0:00:02.730, duration_ms=2730, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:27:43], mode=PLATFORM_GENERATION, duration=0:00:15.340, duration_ms=15340, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:28:17], mode=PLATFORM_GENERATION, duration=0:00:33.836, duration_ms=33836, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:28:32], mode=BUILD, duration=0:00:10.350, duration_ms=10350, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:28:34], mode=BUILD, duration=0:00:01.029, duration_ms=1029, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:41:26], mode=BUILD, duration=0:00:02.761, duration_ms=2761, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:41:27], mode=BUILD, duration=0:00:01.284, duration_ms=1284, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:41:43], mode=PLATFORM_GENERATION, duration=0:00:16.381, duration_ms=16381, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:42:12], mode=PLATFORM_GENERATION, duration=0:00:28.332, duration_ms=28332, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:42:24], mode=BUILD, duration=0:00:08.397, duration_ms=8397, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:42:29], mode=BUILD, duration=0:00:03.906, duration_ms=3906, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:42:52], mode=BUILD, duration=0:00:00.897, duration_ms=897, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:42:52], mode=BUILD, duration=0:00:00.521, duration_ms=521, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:43:04], mode=PLATFORM_GENERATION, duration=0:00:12.239, duration_ms=12239, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:43:28], mode=PLATFORM_GENERATION, duration=0:00:23.161, duration_ms=23161, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:43:38], mode=BUILD, duration=0:00:05.194, duration_ms=5194, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:43:41], mode=BUILD, duration=0:00:00.551, duration_ms=551, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:44:44], mode=BUILD, duration=0:00:00.791, duration_ms=791, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:44:45], mode=BUILD, duration=0:00:00.508, duration_ms=508, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:44:55], mode=PLATFORM_GENERATION, duration=0:00:09.893, duration_ms=9893, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:45:17], mode=PLATFORM_GENERATION, duration=0:00:21.887, duration_ms=21887, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:45:25], mode=BUILD, duration=0:00:04.823, duration_ms=4823, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:45:27], mode=BUILD, duration=0:00:00.535, duration_ms=535, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:48:37], mode=BUILD, duration=0:00:02.613, duration_ms=2613, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:48:38], mode=BUILD, duration=0:00:01.024, duration_ms=1024, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:48:56], mode=PLATFORM_GENERATION, duration=0:00:17.940, duration_ms=17940, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:49:30], mode=PLATFORM_GENERATION, duration=0:00:32.958, duration_ms=32958, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:49:53], mode=BUILD, duration=0:00:11.674, duration_ms=11674, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:49:55], mode=BUILD, duration=0:00:00.714, duration_ms=714, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:52:52], mode=BUILD, duration=0:00:00.749, duration_ms=749, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:52:53], mode=BUILD, duration=0:00:00.643, duration_ms=643, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:53:11], mode=PLATFORM_GENERATION, duration=0:00:18.212, duration_ms=18212, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:53:37], mode=PLATFORM_GENERATION, duration=0:00:25.043, duration_ms=25043, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:53:51], mode=BUILD, duration=0:00:10.477, duration_ms=10477, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:53:54], mode=BUILD, duration=0:00:01.084, duration_ms=1084, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:56:57], mode=BUILD, duration=0:00:02.587, duration_ms=2587, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:56:58], mode=BUILD, duration=0:00:01.148, duration_ms=1148, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:57:17], mode=PLATFORM_GENERATION, duration=0:00:18.654, duration_ms=18654, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:57:48], mode=PLATFORM_GENERATION, duration=0:00:30.619, duration_ms=30619, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:57:58], mode=BUILD, duration=0:00:05.568, duration_ms=5568, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:57:59], mode=BUILD, duration=0:00:00.590, duration_ms=590, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 20:59:07], mode=BUILD, duration=0:00:00.892, duration_ms=892, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:59:08], mode=BUILD, duration=0:00:00.521, duration_ms=521, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 20:59:17], mode=PLATFORM_GENERATION, duration=0:00:09.069, duration_ms=9069, data={name=main_design_wrapper}
+timestamp=[2022-06-25 20:59:47], mode=PLATFORM_GENERATION, duration=0:00:30.032, duration_ms=30032, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:00:13], mode=BUILD, duration=0:00:16.787, duration_ms=16787, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:00:16], mode=BUILD, duration=0:00:00.890, duration_ms=890, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:02:08], mode=BUILD, duration=0:00:00.802, duration_ms=802, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 21:02:09], mode=BUILD, duration=0:00:00.586, duration_ms=586, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 21:02:21], mode=PLATFORM_GENERATION, duration=0:00:12.908, duration_ms=12908, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:02:53], mode=PLATFORM_GENERATION, duration=0:00:31.364, duration_ms=31364, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:03:17], mode=BUILD, duration=0:00:17.686, duration_ms=17686, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:03:19], mode=BUILD, duration=0:00:00.571, duration_ms=571, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:24:06], mode=BUILD, duration=0:00:01.782, duration_ms=1782, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:24:09], mode=BUILD, duration=0:00:00.684, duration_ms=684, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:40:58], mode=BUILD, duration=0:00:01.168, duration_ms=1168, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 21:40:59], mode=BUILD, duration=0:00:01.008, duration_ms=1008, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 21:41:18], mode=PLATFORM_GENERATION, duration=0:00:18.456, duration_ms=18456, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:41:46], mode=PLATFORM_GENERATION, duration=0:00:27.744, duration_ms=27744, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:42:05], mode=BUILD, duration=0:00:12.690, duration_ms=12690, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:42:07], mode=BUILD, duration=0:00:00.513, duration_ms=513, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:56:49], mode=BUILD, duration=0:00:02.396, duration_ms=2396, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 21:56:50], mode=BUILD, duration=0:00:01.005, duration_ms=1005, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 21:57:09], mode=PLATFORM_GENERATION, duration=0:00:19.262, duration_ms=19262, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:57:37], mode=PLATFORM_GENERATION, duration=0:00:27.934, duration_ms=27934, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:57:46], mode=BUILD, duration=0:00:05.363, duration_ms=5363, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:57:48], mode=BUILD, duration=0:00:00.555, duration_ms=555, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:58:19], mode=BUILD, duration=0:00:00.682, duration_ms=682, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 21:58:20], mode=BUILD, duration=0:00:00.545, duration_ms=545, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 21:58:31], mode=PLATFORM_GENERATION, duration=0:00:11.073, duration_ms=11073, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:58:59], mode=PLATFORM_GENERATION, duration=0:00:27.970, duration_ms=27970, data={name=main_design_wrapper}
+timestamp=[2022-06-25 21:59:22], mode=BUILD, duration=0:00:17.947, duration_ms=17947, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 21:59:24], mode=BUILD, duration=0:00:00.612, duration_ms=612, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:01:44], mode=BUILD, duration=0:00:00.766, duration_ms=766, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:01:45], mode=BUILD, duration=0:00:00.559, duration_ms=559, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:01:54], mode=PLATFORM_GENERATION, duration=0:00:08.994, duration_ms=8994, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:02:24], mode=PLATFORM_GENERATION, duration=0:00:29.466, duration_ms=29466, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:02:44], mode=BUILD, duration=0:00:16.476, duration_ms=16476, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:02:46], mode=BUILD, duration=0:00:00.533, duration_ms=533, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:10:31], mode=BUILD, duration=0:00:02.518, duration_ms=2518, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:10:32], mode=BUILD, duration=0:00:01.270, duration_ms=1270, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:10:50], mode=PLATFORM_GENERATION, duration=0:00:17.448, duration_ms=17448, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:11:21], mode=PLATFORM_GENERATION, duration=0:00:30.929, duration_ms=30929, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:11:35], mode=BUILD, duration=0:00:09.454, duration_ms=9454, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:11:37], mode=BUILD, duration=0:00:00.600, duration_ms=600, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:31:27], mode=BUILD, duration=0:00:02.439, duration_ms=2439, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:31:28], mode=BUILD, duration=0:00:01.047, duration_ms=1047, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:31:46], mode=PLATFORM_GENERATION, duration=0:00:17.902, duration_ms=17902, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:32:19], mode=PLATFORM_GENERATION, duration=0:00:32.940, duration_ms=32940, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:32:37], mode=BUILD, duration=0:00:14.302, duration_ms=14302, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:32:42], mode=BUILD, duration=0:00:03.415, duration_ms=3415, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:43:59], mode=BUILD, duration=0:00:03.411, duration_ms=3411, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:44:00], mode=BUILD, duration=0:00:01.043, duration_ms=1043, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:44:16], mode=PLATFORM_GENERATION, duration=0:00:15.513, duration_ms=15513, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:44:46], mode=PLATFORM_GENERATION, duration=0:00:29.809, duration_ms=29809, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:45:12], mode=BUILD, duration=0:00:19.596, duration_ms=19596, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:45:14], mode=BUILD, duration=0:00:01.243, duration_ms=1243, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:53:20], mode=BUILD, duration=0:00:02.262, duration_ms=2262, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:53:21], mode=BUILD, duration=0:00:01.014, duration_ms=1014, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 22:53:34], mode=PLATFORM_GENERATION, duration=0:00:12.600, duration_ms=12600, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:54:03], mode=PLATFORM_GENERATION, duration=0:00:29.011, duration_ms=29011, data={name=main_design_wrapper}
+timestamp=[2022-06-25 22:54:13], mode=BUILD, duration=0:00:05.749, duration_ms=5749, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 22:54:18], mode=BUILD, duration=0:00:00.593, duration_ms=593, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:09:35], mode=BUILD, duration=0:00:02.845, duration_ms=2845, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:09:36], mode=BUILD, duration=0:00:01.240, duration_ms=1240, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:09:55], mode=PLATFORM_GENERATION, duration=0:00:18.701, duration_ms=18701, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:10:30], mode=PLATFORM_GENERATION, duration=0:00:34.659, duration_ms=34659, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:10:47], mode=BUILD, duration=0:00:11.805, duration_ms=11805, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:10:48], mode=BUILD, duration=0:00:00.669, duration_ms=669, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:18:27], mode=BUILD, duration=0:00:02.718, duration_ms=2718, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:18:28], mode=BUILD, duration=0:00:01.255, duration_ms=1255, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:18:44], mode=PLATFORM_GENERATION, duration=0:00:15.660, duration_ms=15660, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:19:22], mode=PLATFORM_GENERATION, duration=0:00:37.642, duration_ms=37642, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:19:39], mode=BUILD, duration=0:00:12.204, duration_ms=12204, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:19:42], mode=BUILD, duration=0:00:00.507, duration_ms=507, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:21:32], mode=BUILD, duration=0:00:00.806, duration_ms=806, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:21:33], mode=BUILD, duration=0:00:00.508, duration_ms=508, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:21:45], mode=PLATFORM_GENERATION, duration=0:00:12.407, duration_ms=12407, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:22:16], mode=PLATFORM_GENERATION, duration=0:00:30.295, duration_ms=30295, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:22:38], mode=BUILD, duration=0:00:18.264, duration_ms=18264, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:22:40], mode=BUILD, duration=0:00:00.563, duration_ms=563, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:26:43], mode=BUILD, duration=0:00:02.274, duration_ms=2274, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:26:44], mode=BUILD, duration=0:00:01.184, duration_ms=1184, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:27:03], mode=PLATFORM_GENERATION, duration=0:00:19.015, duration_ms=19015, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:27:33], mode=PLATFORM_GENERATION, duration=0:00:30.132, duration_ms=30132, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:27:48], mode=BUILD, duration=0:00:10.163, duration_ms=10163, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:27:51], mode=BUILD, duration=0:00:01.305, duration_ms=1305, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:55:54], mode=BUILD, duration=0:00:02.353, duration_ms=2353, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:55:55], mode=BUILD, duration=0:00:00.992, duration_ms=992, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-25 23:56:16], mode=PLATFORM_GENERATION, duration=0:00:21.344, duration_ms=21344, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:56:49], mode=PLATFORM_GENERATION, duration=0:00:32.664, duration_ms=32664, data={name=main_design_wrapper}
+timestamp=[2022-06-25 23:57:08], mode=BUILD, duration=0:00:15.200, duration_ms=15200, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-25 23:57:26], mode=BUILD, duration=0:00:01.216, duration_ms=1216, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 11:02:52], mode=WORKBENCH_START, duration=0:00:11.831, duration_ms=11831, data={}
+timestamp=[2022-06-26 11:02:52], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.317, duration_ms=317, data={}
+timestamp=[2022-06-26 11:02:53], mode=WORKBENCH_UI_INIT, duration=0:00:01.273, duration_ms=1273, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,S4e_Depart_Code_Vitis,S4e_Depart_Code_Vitis_system,main_design_wrapper}
+timestamp=[2022-06-26 11:09:47], mode=BUILD, duration=0:00:02.491, duration_ms=2491, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 11:09:48], mode=BUILD, duration=0:00:01.093, duration_ms=1093, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 11:10:23], mode=PLATFORM_GENERATION, duration=0:00:35.248, duration_ms=35248, data={name=main_design_wrapper}
+timestamp=[2022-06-26 11:10:58], mode=PLATFORM_GENERATION, duration=0:00:34.400, duration_ms=34400, data={name=main_design_wrapper}
+timestamp=[2022-06-26 11:11:24], mode=BUILD, duration=0:00:20.953, duration_ms=20953, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 11:11:27], mode=BUILD, duration=0:00:00.500, duration_ms=500, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 11:29:41], mode=BUILD, duration=0:00:02.812, duration_ms=2812, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 11:29:42], mode=BUILD, duration=0:00:01.192, duration_ms=1192, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 11:29:55], mode=PLATFORM_GENERATION, duration=0:00:12.528, duration_ms=12528, data={name=main_design_wrapper}
+timestamp=[2022-06-26 11:30:20], mode=PLATFORM_GENERATION, duration=0:00:24.688, duration_ms=24688, data={name=main_design_wrapper}
+timestamp=[2022-06-26 11:30:41], mode=BUILD, duration=0:00:18.890, duration_ms=18890, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 11:30:57], mode=BUILD, duration=0:00:00.762, duration_ms=762, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 11:34:03], mode=BUILD, duration=0:00:02.465, duration_ms=2465, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 11:34:04], mode=BUILD, duration=0:00:01.049, duration_ms=1049, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 11:34:22], mode=PLATFORM_GENERATION, duration=0:00:18.307, duration_ms=18307, data={name=main_design_wrapper}
+timestamp=[2022-06-26 11:34:47], mode=PLATFORM_GENERATION, duration=0:00:23.870, duration_ms=23870, data={name=main_design_wrapper}
+timestamp=[2022-06-26 11:35:03], mode=BUILD, duration=0:00:11.543, duration_ms=11543, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 11:35:05], mode=BUILD, duration=0:00:00.501, duration_ms=501, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:28:39], mode=BUILD, duration=0:00:02.431, duration_ms=2431, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:28:41], mode=BUILD, duration=0:00:01.102, duration_ms=1102, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:28:56], mode=PLATFORM_GENERATION, duration=0:00:15.556, duration_ms=15556, data={name=main_design_wrapper}
+timestamp=[2022-06-26 12:29:33], mode=PLATFORM_GENERATION, duration=0:00:36.074, duration_ms=36074, data={name=main_design_wrapper}
+timestamp=[2022-06-26 12:29:38], mode=BUILD, duration=0:00:01.136, duration_ms=1136, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:29:40], mode=BUILD, duration=0:00:01.143, duration_ms=1143, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:32:26], mode=BUILD, duration=0:00:00.806, duration_ms=806, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:32:27], mode=BUILD, duration=0:00:00.558, duration_ms=558, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:32:44], mode=PLATFORM_GENERATION, duration=0:00:16.898, duration_ms=16898, data={name=main_design_wrapper}
+timestamp=[2022-06-26 12:33:11], mode=PLATFORM_GENERATION, duration=0:00:26.725, duration_ms=26725, data={name=main_design_wrapper}
+timestamp=[2022-06-26 12:33:26], mode=BUILD, duration=0:00:11.742, duration_ms=11742, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:33:28], mode=BUILD, duration=0:00:00.503, duration_ms=503, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:52:34], mode=BUILD, duration=0:00:02.708, duration_ms=2708, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:52:36], mode=BUILD, duration=0:00:01.130, duration_ms=1130, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:52:55], mode=PLATFORM_GENERATION, duration=0:00:18.983, duration_ms=18983, data={name=main_design_wrapper}
+timestamp=[2022-06-26 12:53:28], mode=PLATFORM_GENERATION, duration=0:00:33.201, duration_ms=33201, data={name=main_design_wrapper}
+timestamp=[2022-06-26 12:53:43], mode=BUILD, duration=0:00:10.057, duration_ms=10057, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:53:46], mode=BUILD, duration=0:00:00.594, duration_ms=594, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:54:32], mode=BUILD, duration=0:00:00.733, duration_ms=733, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:54:33], mode=BUILD, duration=0:00:00.558, duration_ms=558, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:54:43], mode=PLATFORM_GENERATION, duration=0:00:09.847, duration_ms=9847, data={name=main_design_wrapper}
+timestamp=[2022-06-26 12:55:11], mode=PLATFORM_GENERATION, duration=0:00:28.560, duration_ms=28560, data={name=main_design_wrapper}
+timestamp=[2022-06-26 12:55:35], mode=BUILD, duration=0:00:14.765, duration_ms=14765, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:55:37], mode=BUILD, duration=0:00:00.859, duration_ms=859, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 12:59:28], mode=BUILD, duration=0:00:02.513, duration_ms=2513, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:59:29], mode=BUILD, duration=0:00:00.997, duration_ms=997, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 12:59:43], mode=PLATFORM_GENERATION, duration=0:00:13.393, duration_ms=13393, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:00:14], mode=PLATFORM_GENERATION, duration=0:00:30.939, duration_ms=30939, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:00:36], mode=BUILD, duration=0:00:16.791, duration_ms=16791, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:00:39], mode=BUILD, duration=0:00:01.162, duration_ms=1162, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:00:48], mode=BUILD, duration=0:00:00.980, duration_ms=980, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:00:50], mode=BUILD, duration=0:00:00.551, duration_ms=551, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:02:21], mode=BUILD, duration=0:00:00.839, duration_ms=839, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:02:21], mode=BUILD, duration=0:00:00.565, duration_ms=565, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:02:31], mode=PLATFORM_GENERATION, duration=0:00:09.690, duration_ms=9690, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:03:06], mode=PLATFORM_GENERATION, duration=0:00:35.124, duration_ms=35124, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:03:22], mode=BUILD, duration=0:00:12.173, duration_ms=12173, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:03:25], mode=BUILD, duration=0:00:00.513, duration_ms=513, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:08:21], mode=BUILD, duration=0:00:02.781, duration_ms=2781, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:08:22], mode=BUILD, duration=0:00:01.070, duration_ms=1070, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:08:38], mode=PLATFORM_GENERATION, duration=0:00:15.832, duration_ms=15832, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:09:10], mode=PLATFORM_GENERATION, duration=0:00:31.639, duration_ms=31639, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:09:16], mode=BUILD, duration=0:00:02.347, duration_ms=2347, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:09:18], mode=BUILD, duration=0:00:00.744, duration_ms=744, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:10:49], mode=BUILD, duration=0:00:00.729, duration_ms=729, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:10:50], mode=BUILD, duration=0:00:00.545, duration_ms=545, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:11:01], mode=PLATFORM_GENERATION, duration=0:00:11.427, duration_ms=11427, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:11:31], mode=PLATFORM_GENERATION, duration=0:00:29.178, duration_ms=29178, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:11:51], mode=BUILD, duration=0:00:10.503, duration_ms=10503, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:11:53], mode=BUILD, duration=0:00:00.535, duration_ms=535, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:16:08], mode=BUILD, duration=0:00:03.758, duration_ms=3758, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:16:11], mode=BUILD, duration=0:00:02.222, duration_ms=2222, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:16:45], mode=BUILD, duration=0:00:00.911, duration_ms=911, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:16:47], mode=BUILD, duration=0:00:00.500, duration_ms=500, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:16:56], mode=BUILD, duration=0:00:00.698, duration_ms=698, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:16:57], mode=BUILD, duration=0:00:00.494, duration_ms=494, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:17:00], mode=BUILD, duration=0:00:00.728, duration_ms=728, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:17:00], mode=BUILD, duration=0:00:00.544, duration_ms=544, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:17:18], mode=PLATFORM_GENERATION, duration=0:00:17.917, duration_ms=17917, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:17:46], mode=PLATFORM_GENERATION, duration=0:00:27.745, duration_ms=27745, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:18:02], mode=BUILD, duration=0:00:12.993, duration_ms=12993, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:18:04], mode=BUILD, duration=0:00:00.518, duration_ms=518, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:18:58], mode=BUILD, duration=0:00:00.682, duration_ms=682, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:18:59], mode=BUILD, duration=0:00:00.574, duration_ms=574, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:19:09], mode=PLATFORM_GENERATION, duration=0:00:10.097, duration_ms=10097, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:19:36], mode=PLATFORM_GENERATION, duration=0:00:26.554, duration_ms=26554, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:19:47], mode=BUILD, duration=0:00:07.633, duration_ms=7633, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:19:49], mode=BUILD, duration=0:00:00.497, duration_ms=497, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:25:47], mode=BUILD, duration=0:00:02.707, duration_ms=2707, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:25:49], mode=BUILD, duration=0:00:01.065, duration_ms=1065, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:26:06], mode=PLATFORM_GENERATION, duration=0:00:17.450, duration_ms=17450, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:26:35], mode=PLATFORM_GENERATION, duration=0:00:29.153, duration_ms=29153, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:26:53], mode=BUILD, duration=0:00:13.019, duration_ms=13019, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:26:55], mode=BUILD, duration=0:00:00.822, duration_ms=822, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:29:58], mode=BUILD, duration=0:00:02.557, duration_ms=2557, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:29:59], mode=BUILD, duration=0:00:01.059, duration_ms=1059, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:30:18], mode=PLATFORM_GENERATION, duration=0:00:19.026, duration_ms=19026, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:30:48], mode=PLATFORM_GENERATION, duration=0:00:29.725, duration_ms=29725, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:31:03], mode=BUILD, duration=0:00:11.076, duration_ms=11076, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:31:06], mode=BUILD, duration=0:00:01.893, duration_ms=1893, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:32:16], mode=BUILD, duration=0:00:00.695, duration_ms=695, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:32:17], mode=BUILD, duration=0:00:00.501, duration_ms=501, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:32:26], mode=PLATFORM_GENERATION, duration=0:00:09.453, duration_ms=9453, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:32:55], mode=PLATFORM_GENERATION, duration=0:00:28.502, duration_ms=28502, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:33:01], mode=BUILD, duration=0:00:02.442, duration_ms=2442, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:33:05], mode=BUILD, duration=0:00:02.636, duration_ms=2636, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:34:58], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:34:59], mode=BUILD, duration=0:00:00.490, duration_ms=490, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:35:12], mode=PLATFORM_GENERATION, duration=0:00:13.222, duration_ms=13222, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:35:42], mode=PLATFORM_GENERATION, duration=0:00:29.964, duration_ms=29964, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:35:49], mode=BUILD, duration=0:00:02.433, duration_ms=2433, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:35:53], mode=BUILD, duration=0:00:02.817, duration_ms=2817, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:37:38], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:37:39], mode=BUILD, duration=0:00:00.544, duration_ms=544, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:37:47], mode=PLATFORM_GENERATION, duration=0:00:08.315, duration_ms=8315, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:38:21], mode=PLATFORM_GENERATION, duration=0:00:33.382, duration_ms=33382, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:38:41], mode=BUILD, duration=0:00:15.245, duration_ms=15245, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:38:46], mode=BUILD, duration=0:00:03.738, duration_ms=3738, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:47:23], mode=BUILD, duration=0:00:02.335, duration_ms=2335, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:47:24], mode=BUILD, duration=0:00:01.101, duration_ms=1101, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 13:47:40], mode=PLATFORM_GENERATION, duration=0:00:16.685, duration_ms=16685, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:48:12], mode=PLATFORM_GENERATION, duration=0:00:31.469, duration_ms=31469, data={name=main_design_wrapper}
+timestamp=[2022-06-26 13:48:36], mode=BUILD, duration=0:00:17.765, duration_ms=17765, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:48:37], mode=BUILD, duration=0:00:00.585, duration_ms=585, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 13:55:10], mode=BUILD, duration=0:00:03.041, duration_ms=3041, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:08:51], mode=BUILD, duration=0:00:04.825, duration_ms=4825, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:26:19], mode=BUILD, duration=0:00:02.746, duration_ms=2746, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 14:26:20], mode=BUILD, duration=0:00:01.051, duration_ms=1051, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 14:26:35], mode=PLATFORM_GENERATION, duration=0:00:14.950, duration_ms=14950, data={name=main_design_wrapper}
+timestamp=[2022-06-26 14:27:03], mode=PLATFORM_GENERATION, duration=0:00:27.812, duration_ms=27812, data={name=main_design_wrapper}
+timestamp=[2022-06-26 14:27:21], mode=BUILD, duration=0:00:12.844, duration_ms=12844, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:27:23], mode=BUILD, duration=0:00:00.513, duration_ms=513, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:28:36], mode=BUILD, duration=0:00:00.739, duration_ms=739, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 14:28:37], mode=BUILD, duration=0:00:00.572, duration_ms=572, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 14:28:53], mode=PLATFORM_GENERATION, duration=0:00:16.548, duration_ms=16548, data={name=main_design_wrapper}
+timestamp=[2022-06-26 14:29:23], mode=PLATFORM_GENERATION, duration=0:00:29.992, duration_ms=29992, data={name=main_design_wrapper}
+timestamp=[2022-06-26 14:29:48], mode=BUILD, duration=0:00:19.561, duration_ms=19561, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:29:52], mode=BUILD, duration=0:00:01.481, duration_ms=1481, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:35:07], mode=BUILD, duration=0:00:07.076, duration_ms=7076, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:35:10], mode=BUILD, duration=0:00:01.134, duration_ms=1134, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:35:57], mode=BUILD, duration=0:00:01.076, duration_ms=1076, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:35:58], mode=BUILD, duration=0:00:00.524, duration_ms=524, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:38:01], mode=BUILD, duration=0:00:01.350, duration_ms=1350, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:38:02], mode=BUILD, duration=0:00:00.514, duration_ms=514, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:39:35], mode=BUILD, duration=0:00:01.744, duration_ms=1744, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:39:38], mode=BUILD, duration=0:00:01.493, duration_ms=1493, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:41:00], mode=BUILD, duration=0:00:01.263, duration_ms=1263, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:41:02], mode=BUILD, duration=0:00:00.510, duration_ms=510, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:42:51], mode=BUILD, duration=0:00:02.221, duration_ms=2221, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:42:53], mode=BUILD, duration=0:00:00.542, duration_ms=542, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:44:52], mode=BUILD, duration=0:00:01.580, duration_ms=1580, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:44:54], mode=BUILD, duration=0:00:00.533, duration_ms=533, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:45:58], mode=BUILD, duration=0:00:01.106, duration_ms=1106, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:45:59], mode=BUILD, duration=0:00:00.554, duration_ms=554, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:47:34], mode=BUILD, duration=0:00:01.678, duration_ms=1678, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:47:36], mode=BUILD, duration=0:00:00.489, duration_ms=489, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:50:03], mode=BUILD, duration=0:00:03.557, duration_ms=3557, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:50:05], mode=BUILD, duration=0:00:00.532, duration_ms=532, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:51:41], mode=BUILD, duration=0:00:02.774, duration_ms=2774, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:51:43], mode=BUILD, duration=0:00:00.531, duration_ms=531, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:52:17], mode=BUILD, duration=0:00:03.524, duration_ms=3524, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:52:18], mode=BUILD, duration=0:00:00.586, duration_ms=586, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:52:53], mode=BUILD, duration=0:00:01.633, duration_ms=1633, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:52:55], mode=BUILD, duration=0:00:00.533, duration_ms=533, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:56:55], mode=BUILD, duration=0:00:05.023, duration_ms=5023, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:56:57], mode=BUILD, duration=0:00:01.113, duration_ms=1113, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:57:22], mode=BUILD, duration=0:00:01.551, duration_ms=1551, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:57:23], mode=BUILD, duration=0:00:00.527, duration_ms=527, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:58:05], mode=BUILD, duration=0:00:01.264, duration_ms=1264, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:58:07], mode=BUILD, duration=0:00:00.600, duration_ms=600, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:59:15], mode=BUILD, duration=0:00:01.577, duration_ms=1577, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 14:59:17], mode=BUILD, duration=0:00:00.492, duration_ms=492, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:01:09], mode=BUILD, duration=0:00:02.392, duration_ms=2392, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:01:11], mode=BUILD, duration=0:00:00.733, duration_ms=733, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:05:11], mode=BUILD, duration=0:00:07.373, duration_ms=7373, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:05:14], mode=BUILD, duration=0:00:01.388, duration_ms=1388, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:20:32], mode=BUILD, duration=0:00:03.996, duration_ms=3996, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:20:37], mode=BUILD, duration=0:00:02.101, duration_ms=2101, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:20:47], mode=BUILD, duration=0:00:02.227, duration_ms=2227, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:20:49], mode=BUILD, duration=0:00:00.501, duration_ms=501, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:28:06], mode=BUILD, duration=0:00:05.270, duration_ms=5270, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:28:09], mode=BUILD, duration=0:00:01.274, duration_ms=1274, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:32:36], mode=BUILD, duration=0:00:04.964, duration_ms=4964, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:32:41], mode=BUILD, duration=0:00:03.394, duration_ms=3394, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:37:36], mode=BUILD, duration=0:00:06.629, duration_ms=6629, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:37:39], mode=BUILD, duration=0:00:01.365, duration_ms=1365, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:40:36], mode=BUILD, duration=0:00:01.977, duration_ms=1977, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:40:39], mode=BUILD, duration=0:00:00.518, duration_ms=518, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:41:53], mode=BUILD, duration=0:00:01.045, duration_ms=1045, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 15:41:54], mode=BUILD, duration=0:00:00.688, duration_ms=688, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 15:42:13], mode=PLATFORM_GENERATION, duration=0:00:18.948, duration_ms=18948, data={name=main_design_wrapper}
+timestamp=[2022-06-26 15:42:46], mode=PLATFORM_GENERATION, duration=0:00:32.798, duration_ms=32798, data={name=main_design_wrapper}
+timestamp=[2022-06-26 15:43:06], mode=BUILD, duration=0:00:14.783, duration_ms=14783, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:43:09], mode=BUILD, duration=0:00:00.497, duration_ms=497, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:45:13], mode=BUILD, duration=0:00:03.791, duration_ms=3791, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:45:15], mode=BUILD, duration=0:00:00.489, duration_ms=489, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:59:16], mode=BUILD, duration=0:00:05.523, duration_ms=5523, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 15:59:19], mode=BUILD, duration=0:00:01.300, duration_ms=1300, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:16:39], mode=BUILD, duration=0:00:04.667, duration_ms=4667, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:16:42], mode=BUILD, duration=0:00:01.300, duration_ms=1300, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:19:30], mode=BUILD, duration=0:00:04.221, duration_ms=4221, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:19:33], mode=BUILD, duration=0:00:00.640, duration_ms=640, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:22:02], mode=BUILD, duration=0:00:04.083, duration_ms=4083, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:22:04], mode=BUILD, duration=0:00:00.494, duration_ms=494, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:22:59], mode=BUILD, duration=0:00:01.474, duration_ms=1474, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:23:01], mode=BUILD, duration=0:00:00.572, duration_ms=572, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:37:44], mode=BUILD, duration=0:00:04.774, duration_ms=4774, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 16:37:46], mode=BUILD, duration=0:00:01.367, duration_ms=1367, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 16:38:07], mode=PLATFORM_GENERATION, duration=0:00:20.673, duration_ms=20673, data={name=main_design_wrapper}
+timestamp=[2022-06-26 16:38:39], mode=PLATFORM_GENERATION, duration=0:00:32.583, duration_ms=32583, data={name=main_design_wrapper}
+timestamp=[2022-06-26 16:39:03], mode=BUILD, duration=0:00:20.484, duration_ms=20484, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:39:18], mode=BUILD, duration=0:00:00.629, duration_ms=629, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:51:13], mode=BUILD, duration=0:00:07.800, duration_ms=7800, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:51:17], mode=BUILD, duration=0:00:01.829, duration_ms=1829, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:56:03], mode=BUILD, duration=0:00:05.192, duration_ms=5192, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:56:05], mode=BUILD, duration=0:00:01.309, duration_ms=1309, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:59:16], mode=BUILD, duration=0:00:03.072, duration_ms=3072, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 16:59:19], mode=BUILD, duration=0:00:00.987, duration_ms=987, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 17:20:09], mode=BUILD, duration=0:00:02.331, duration_ms=2331, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 17:20:10], mode=BUILD, duration=0:00:01.105, duration_ms=1105, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-06-26 17:20:25], mode=PLATFORM_GENERATION, duration=0:00:15.489, duration_ms=15489, data={name=main_design_wrapper}
+timestamp=[2022-06-26 17:20:55], mode=PLATFORM_GENERATION, duration=0:00:29.583, duration_ms=29583, data={name=main_design_wrapper}
+timestamp=[2022-06-26 17:21:19], mode=BUILD, duration=0:00:20.778, duration_ms=20778, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 17:21:22], mode=BUILD, duration=0:00:00.507, duration_ms=507, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 17:25:05], mode=BUILD, duration=0:00:06.252, duration_ms=6252, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 17:25:10], mode=BUILD, duration=0:00:03.378, duration_ms=3378, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 17:26:51], mode=BUILD, duration=0:00:01.241, duration_ms=1241, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 17:26:52], mode=BUILD, duration=0:00:00.650, duration_ms=650, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 17:38:35], mode=BUILD, duration=0:00:01.000, duration_ms=1000, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 17:38:38], mode=BUILD, duration=0:00:01.016, duration_ms=1016, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 18:26:01], mode=BUILD, duration=0:00:02.279, duration_ms=2279, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 18:26:05], mode=BUILD, duration=0:00:01.115, duration_ms=1115, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 20:01:16], mode=BUILD, duration=0:00:00.679, duration_ms=679, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-06-26 20:01:19], mode=BUILD, duration=0:00:01.116, duration_ms=1116, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 11:47:58], mode=WORKBENCH_START, duration=0:00:12.577, duration_ms=12577, data={}
+timestamp=[2022-07-20 11:47:59], mode=WORKBENCH_UI_INIT, duration=0:00:00.807, duration_ms=807, data={editors_count=8, platform_editors_count=4, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,S4e_Depart_Code_Vitis,S4e_Depart_Code_Vitis_system,main_design_wrapper}
+timestamp=[2022-07-20 11:47:59], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.048, duration_ms=48, data={}
+timestamp=[2022-07-20 11:51:50], mode=PLATFORM_GENERATION, duration=0:00:08.362, duration_ms=8362, data={name=main_design_wrapper}
+timestamp=[2022-07-20 11:53:12], mode=PLATFORM_GENERATION, duration=0:00:46.224, duration_ms=46224, data={name=main_design_wrapper}
+timestamp=[2022-07-20 11:56:41], mode=PLATFORM_GENERATION, duration=0:00:08.257, duration_ms=8257, data={name=main_design_wrapper}
+timestamp=[2022-07-20 11:56:41], mode=BUILD, duration=0:00:00.454, duration_ms=454, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 11:56:42], mode=BUILD, duration=0:00:00.319, duration_ms=319, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 11:57:11], mode=PLATFORM_GENERATION, duration=0:00:23.187, duration_ms=23187, data={name=main_design_wrapper}
+timestamp=[2022-07-20 11:57:25], mode=BUILD, duration=0:00:08.660, duration_ms=8660, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 11:57:37], mode=BUILD, duration=0:00:00.247, duration_ms=247, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 11:59:52], mode=BUILD, duration=0:00:00.724, duration_ms=724, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 12:00:01], mode=BUILD, duration=0:00:09.097, duration_ms=9097, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 12:00:02], mode=BUILD, duration=0:00:00.333, duration_ms=333, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 12:00:36], mode=BUILD, duration=0:00:00.679, duration_ms=679, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 12:00:37], mode=BUILD, duration=0:00:00.245, duration_ms=245, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 12:01:53], mode=BUILD, duration=0:00:02.113, duration_ms=2113, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 12:01:54], mode=BUILD, duration=0:00:00.266, duration_ms=266, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:07:38], mode=PLATFORM_GENERATION, duration=0:00:13.029, duration_ms=13029, data={name=main_design_wrapper}
+timestamp=[2022-07-20 19:07:38], mode=BUILD, duration=0:00:00.524, duration_ms=524, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 19:07:38], mode=BUILD, duration=0:00:00.336, duration_ms=336, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 19:08:22], mode=PLATFORM_GENERATION, duration=0:00:28.348, duration_ms=28348, data={name=main_design_wrapper}
+timestamp=[2022-07-20 19:08:35], mode=BUILD, duration=0:00:12.343, duration_ms=12343, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:08:36], mode=BUILD, duration=0:00:00.261, duration_ms=261, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:16:49], mode=PLATFORM_GENERATION, duration=0:00:12.766, duration_ms=12766, data={name=main_design_wrapper}
+timestamp=[2022-07-20 19:16:50], mode=BUILD, duration=0:00:00.971, duration_ms=971, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 19:16:50], mode=BUILD, duration=0:00:00.312, duration_ms=312, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 19:17:34], mode=PLATFORM_GENERATION, duration=0:00:28.396, duration_ms=28396, data={name=main_design_wrapper}
+timestamp=[2022-07-20 19:17:46], mode=BUILD, duration=0:00:12.010, duration_ms=12010, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:17:48], mode=BUILD, duration=0:00:00.389, duration_ms=389, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:23:02], mode=BUILD, duration=0:00:03.492, duration_ms=3492, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:23:04], mode=BUILD, duration=0:00:00.400, duration_ms=400, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:48:40], mode=BUILD, duration=0:00:03.536, duration_ms=3536, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:48:41], mode=BUILD, duration=0:00:00.305, duration_ms=305, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:53:36], mode=BUILD, duration=0:00:02.525, duration_ms=2525, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:53:37], mode=BUILD, duration=0:00:00.298, duration_ms=298, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:56:57], mode=BUILD, duration=0:00:02.648, duration_ms=2648, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 19:56:58], mode=BUILD, duration=0:00:00.447, duration_ms=447, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:08:06], mode=BUILD, duration=0:00:02.583, duration_ms=2583, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:08:07], mode=BUILD, duration=0:00:00.306, duration_ms=306, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:11:45], mode=PLATFORM_GENERATION, duration=0:00:12.715, duration_ms=12715, data={name=main_design_wrapper}
+timestamp=[2022-07-20 20:11:46], mode=BUILD, duration=0:00:00.512, duration_ms=512, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 20:11:46], mode=BUILD, duration=0:00:00.451, duration_ms=451, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 20:12:19], mode=PLATFORM_GENERATION, duration=0:00:27.042, duration_ms=27042, data={name=main_design_wrapper}
+timestamp=[2022-07-20 20:12:30], mode=BUILD, duration=0:00:11.453, duration_ms=11453, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:12:31], mode=BUILD, duration=0:00:00.260, duration_ms=260, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:18:12], mode=BUILD, duration=0:00:01.126, duration_ms=1126, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:18:13], mode=BUILD, duration=0:00:00.381, duration_ms=381, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:18:58], mode=BUILD, duration=0:00:01.026, duration_ms=1026, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:18:59], mode=BUILD, duration=0:00:00.338, duration_ms=338, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:19:19], mode=BUILD, duration=0:00:03.356, duration_ms=3356, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:19:20], mode=BUILD, duration=0:00:00.356, duration_ms=356, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:21:41], mode=BUILD, duration=0:00:03.602, duration_ms=3602, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:21:42], mode=BUILD, duration=0:00:00.332, duration_ms=332, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:49:35], mode=BUILD, duration=0:00:03.576, duration_ms=3576, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:49:36], mode=BUILD, duration=0:00:00.327, duration_ms=327, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:53:21], mode=BUILD, duration=0:00:03.158, duration_ms=3158, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:53:22], mode=BUILD, duration=0:00:00.384, duration_ms=384, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:55:19], mode=BUILD, duration=0:00:01.620, duration_ms=1620, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:55:20], mode=BUILD, duration=0:00:00.244, duration_ms=244, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:58:40], mode=BUILD, duration=0:00:01.611, duration_ms=1611, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 20:58:41], mode=BUILD, duration=0:00:00.255, duration_ms=255, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:04:19], mode=BUILD, duration=0:00:02.113, duration_ms=2113, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:04:19], mode=BUILD, duration=0:00:00.259, duration_ms=259, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:06:08], mode=BUILD, duration=0:00:01.893, duration_ms=1893, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:06:09], mode=BUILD, duration=0:00:00.232, duration_ms=232, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:16:07], mode=BUILD, duration=0:00:01.669, duration_ms=1669, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:16:08], mode=BUILD, duration=0:00:00.235, duration_ms=235, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:25:23], mode=BUILD, duration=0:00:01.624, duration_ms=1624, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:25:23], mode=BUILD, duration=0:00:00.261, duration_ms=261, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:27:13], mode=PLATFORM_GENERATION, duration=0:00:08.623, duration_ms=8623, data={name=main_design_wrapper}
+timestamp=[2022-07-20 21:27:13], mode=BUILD, duration=0:00:00.367, duration_ms=367, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 21:27:14], mode=BUILD, duration=0:00:00.298, duration_ms=298, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-07-20 21:27:51], mode=PLATFORM_GENERATION, duration=0:00:25.776, duration_ms=25776, data={name=main_design_wrapper}
+timestamp=[2022-07-20 21:27:52], mode=BUILD, duration=0:00:00.827, duration_ms=827, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:27:53], mode=BUILD, duration=0:00:00.283, duration_ms=283, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:28:45], mode=BUILD, duration=0:00:08.553, duration_ms=8553, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:28:46], mode=BUILD, duration=0:00:00.253, duration_ms=253, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:29:49], mode=BUILD, duration=0:00:01.597, duration_ms=1597, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:29:49], mode=BUILD, duration=0:00:00.227, duration_ms=227, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:31:50], mode=BUILD, duration=0:00:01.206, duration_ms=1206, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:31:51], mode=BUILD, duration=0:00:00.248, duration_ms=248, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:32:46], mode=BUILD, duration=0:00:01.549, duration_ms=1549, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-20 21:32:46], mode=BUILD, duration=0:00:00.255, duration_ms=255, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-21 08:05:39], mode=WORKBENCH_START, duration=0:00:14.942, duration_ms=14942, data={}
+timestamp=[2022-07-21 08:05:40], mode=WORKBENCH_UI_INIT, duration=0:00:00.879, duration_ms=879, data={editors_count=12, platform_editors_count=6, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,S4e_Depart_Code_Vitis,S4e_Depart_Code_Vitis_system,main_design_wrapper}
+timestamp=[2022-07-21 08:05:41], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.110, duration_ms=110, data={}
+timestamp=[2022-07-31 11:46:05], mode=WORKBENCH_START, duration=0:00:18.070, duration_ms=18070, data={}
+timestamp=[2022-07-31 11:46:06], mode=WORKBENCH_UI_INIT, duration=0:00:00.931, duration_ms=931, data={editors_count=13, platform_editors_count=7, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,S4e_Depart_Code_Vitis,S4e_Depart_Code_Vitis_system,main_design_wrapper}
+timestamp=[2022-07-31 11:46:08], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.145, duration_ms=145, data={}
+timestamp=[2022-07-31 14:49:30], mode=PLATFORM_GENERATION, duration=0:00:15.216, duration_ms=15216, data={name=main_design_wrapper}
+timestamp=[2022-07-31 14:50:13], mode=PLATFORM_GENERATION, duration=0:00:32.609, duration_ms=32609, data={name=main_design_wrapper}
+timestamp=[2022-07-31 15:22:06], mode=PLATFORM_GENERATION, duration=0:00:11.676, duration_ms=11676, data={name=main_design_wrapper}
+timestamp=[2022-07-31 15:22:53], mode=PLATFORM_GENERATION, duration=0:00:33.177, duration_ms=33177, data={name=main_design_wrapper}
+timestamp=[2022-07-31 15:37:23], mode=PLATFORM_GENERATION, duration=0:00:08.943, duration_ms=8943, data={name=main_design_wrapper}
+timestamp=[2022-07-31 15:37:58], mode=PLATFORM_GENERATION, duration=0:00:23.836, duration_ms=23836, data={name=main_design_wrapper}
+timestamp=[2022-07-31 16:00:37], mode=PLATFORM_GENERATION, duration=0:00:09.113, duration_ms=9113, data={name=main_design_wrapper}
+timestamp=[2022-07-31 16:00:37], mode=BUILD, duration=0:00:00.536, duration_ms=536, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-07-31 16:00:37], mode=BUILD, duration=0:00:00.353, duration_ms=353, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-07-31 16:01:09], mode=PLATFORM_GENERATION, duration=0:00:26.085, duration_ms=26085, data={name=main_design_wrapper}
+timestamp=[2022-07-31 16:01:21], mode=BUILD, duration=0:00:11.363, duration_ms=11363, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:01:35], mode=BUILD, duration=0:00:00.356, duration_ms=356, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:03:12], mode=BUILD, duration=0:00:00.853, duration_ms=853, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:03:13], mode=BUILD, duration=0:00:00.279, duration_ms=279, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:04:12], mode=BUILD, duration=0:00:01.967, duration_ms=1967, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:04:13], mode=BUILD, duration=0:00:00.266, duration_ms=266, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:06:42], mode=BUILD, duration=0:00:01.647, duration_ms=1647, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:06:44], mode=BUILD, duration=0:00:00.677, duration_ms=677, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:10:29], mode=BUILD, duration=0:00:00.871, duration_ms=871, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:10:30], mode=BUILD, duration=0:00:00.270, duration_ms=270, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:10:54], mode=BUILD, duration=0:00:02.235, duration_ms=2235, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:10:55], mode=BUILD, duration=0:00:00.258, duration_ms=258, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:53:38], mode=PLATFORM_GENERATION, duration=0:00:08.626, duration_ms=8626, data={name=main_design_wrapper}
+timestamp=[2022-07-31 16:54:08], mode=PLATFORM_GENERATION, duration=0:00:24.347, duration_ms=24347, data={name=main_design_wrapper}
+timestamp=[2022-07-31 16:54:32], mode=BUILD, duration=0:00:00.713, duration_ms=713, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:54:45], mode=BUILD, duration=0:00:00.287, duration_ms=287, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:55:21], mode=BUILD, duration=0:00:02.613, duration_ms=2613, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 16:55:22], mode=BUILD, duration=0:00:00.249, duration_ms=249, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 17:58:07], mode=BUILD, duration=0:00:03.535, duration_ms=3535, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 17:58:08], mode=BUILD, duration=0:00:00.260, duration_ms=260, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 17:58:48], mode=BUILD, duration=0:00:01.741, duration_ms=1741, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 17:58:49], mode=BUILD, duration=0:00:00.244, duration_ms=244, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:33:06], mode=BUILD, duration=0:00:02.253, duration_ms=2253, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:33:06], mode=BUILD, duration=0:00:00.257, duration_ms=257, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:36:10], mode=BUILD, duration=0:00:02.207, duration_ms=2207, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:36:11], mode=BUILD, duration=0:00:00.328, duration_ms=328, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:39:42], mode=BUILD, duration=0:00:01.796, duration_ms=1796, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:39:43], mode=BUILD, duration=0:00:00.258, duration_ms=258, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:40:24], mode=BUILD, duration=0:00:01.966, duration_ms=1966, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:40:25], mode=BUILD, duration=0:00:00.246, duration_ms=246, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:45:45], mode=BUILD, duration=0:00:01.833, duration_ms=1833, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 18:45:46], mode=BUILD, duration=0:00:00.310, duration_ms=310, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:15:57], mode=BUILD, duration=0:00:00.839, duration_ms=839, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:15:58], mode=BUILD, duration=0:00:00.245, duration_ms=245, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:16:11], mode=BUILD, duration=0:00:00.820, duration_ms=820, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:16:12], mode=BUILD, duration=0:00:00.292, duration_ms=292, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:20:17], mode=BUILD, duration=0:00:03.084, duration_ms=3084, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:20:18], mode=BUILD, duration=0:00:00.285, duration_ms=285, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:23:59], mode=BUILD, duration=0:00:03.470, duration_ms=3470, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:24:00], mode=BUILD, duration=0:00:00.279, duration_ms=279, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:41:43], mode=BUILD, duration=0:00:01.904, duration_ms=1904, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:41:43], mode=BUILD, duration=0:00:00.263, duration_ms=263, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:43:50], mode=BUILD, duration=0:00:01.777, duration_ms=1777, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:43:51], mode=BUILD, duration=0:00:00.259, duration_ms=259, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:44:28], mode=BUILD, duration=0:00:01.780, duration_ms=1780, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 19:44:29], mode=BUILD, duration=0:00:00.251, duration_ms=251, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:00:18], mode=BUILD, duration=0:00:01.791, duration_ms=1791, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:00:19], mode=BUILD, duration=0:00:00.279, duration_ms=279, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:06:18], mode=BUILD, duration=0:00:01.781, duration_ms=1781, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:06:19], mode=BUILD, duration=0:00:00.250, duration_ms=250, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:07:21], mode=BUILD, duration=0:00:01.797, duration_ms=1797, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:07:22], mode=BUILD, duration=0:00:00.249, duration_ms=249, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:09:18], mode=BUILD, duration=0:00:01.819, duration_ms=1819, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:09:19], mode=BUILD, duration=0:00:00.282, duration_ms=282, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:12:38], mode=BUILD, duration=0:00:01.783, duration_ms=1783, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:12:39], mode=BUILD, duration=0:00:00.263, duration_ms=263, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:19:20], mode=BUILD, duration=0:00:01.958, duration_ms=1958, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:19:21], mode=BUILD, duration=0:00:00.262, duration_ms=262, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:22:18], mode=BUILD, duration=0:00:01.835, duration_ms=1835, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-07-31 20:22:19], mode=BUILD, duration=0:00:00.249, duration_ms=249, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:17:13], mode=BUILD, duration=0:00:00.565, duration_ms=565, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:17:14], mode=BUILD, duration=0:00:00.291, duration_ms=291, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:23:29], mode=BUILD, duration=0:00:02.577, duration_ms=2577, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:23:30], mode=BUILD, duration=0:00:00.305, duration_ms=305, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:26:36], mode=BUILD, duration=0:00:02.922, duration_ms=2922, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:26:37], mode=BUILD, duration=0:00:00.312, duration_ms=312, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:30:44], mode=BUILD, duration=0:00:03.003, duration_ms=3003, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:30:45], mode=BUILD, duration=0:00:00.348, duration_ms=348, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:51:36], mode=BUILD, duration=0:00:02.050, duration_ms=2050, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:51:37], mode=BUILD, duration=0:00:00.352, duration_ms=352, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:52:25], mode=BUILD, duration=0:00:01.284, duration_ms=1284, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:52:26], mode=BUILD, duration=0:00:00.392, duration_ms=392, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:52:48], mode=PLATFORM_GENERATION, duration=0:00:12.700, duration_ms=12700, data={name=main_design_wrapper}
+timestamp=[2022-08-01 12:52:49], mode=BUILD, duration=0:00:00.475, duration_ms=475, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-01 12:52:49], mode=BUILD, duration=0:00:00.343, duration_ms=343, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-08-01 12:53:15], mode=PLATFORM_GENERATION, duration=0:00:25.677, duration_ms=25677, data={name=main_design_wrapper}
+timestamp=[2022-08-01 12:53:28], mode=BUILD, duration=0:00:13.157, duration_ms=13157, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:53:29], mode=BUILD, duration=0:00:00.329, duration_ms=329, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:59:04], mode=BUILD, duration=0:00:01.853, duration_ms=1853, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 12:59:05], mode=BUILD, duration=0:00:00.389, duration_ms=389, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:00:54], mode=BUILD, duration=0:00:02.717, duration_ms=2717, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:00:55], mode=BUILD, duration=0:00:00.397, duration_ms=397, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:02:00], mode=BUILD, duration=0:00:02.566, duration_ms=2566, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:02:02], mode=BUILD, duration=0:00:00.412, duration_ms=412, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:03:30], mode=BUILD, duration=0:00:03.500, duration_ms=3500, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:03:31], mode=BUILD, duration=0:00:00.389, duration_ms=389, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:05:20], mode=BUILD, duration=0:00:02.988, duration_ms=2988, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:05:21], mode=BUILD, duration=0:00:00.328, duration_ms=328, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:40:01], mode=BUILD, duration=0:00:04.424, duration_ms=4424, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:40:02], mode=BUILD, duration=0:00:00.384, duration_ms=384, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:41:12], mode=BUILD, duration=0:00:02.281, duration_ms=2281, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:41:13], mode=BUILD, duration=0:00:00.362, duration_ms=362, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:41:45], mode=BUILD, duration=0:00:02.157, duration_ms=2157, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:41:46], mode=BUILD, duration=0:00:00.327, duration_ms=327, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:44:06], mode=BUILD, duration=0:00:02.200, duration_ms=2200, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:44:07], mode=BUILD, duration=0:00:00.363, duration_ms=363, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:45:20], mode=BUILD, duration=0:00:02.198, duration_ms=2198, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:45:21], mode=BUILD, duration=0:00:00.355, duration_ms=355, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:48:08], mode=BUILD, duration=0:00:02.415, duration_ms=2415, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:48:09], mode=BUILD, duration=0:00:00.382, duration_ms=382, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:49:59], mode=BUILD, duration=0:00:03.045, duration_ms=3045, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:50:00], mode=BUILD, duration=0:00:00.375, duration_ms=375, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:54:52], mode=BUILD, duration=0:00:02.281, duration_ms=2281, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:54:54], mode=BUILD, duration=0:00:00.746, duration_ms=746, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:56:23], mode=BUILD, duration=0:00:03.636, duration_ms=3636, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:56:24], mode=BUILD, duration=0:00:00.368, duration_ms=368, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:58:31], mode=BUILD, duration=0:00:02.269, duration_ms=2269, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:58:32], mode=BUILD, duration=0:00:00.317, duration_ms=317, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:58:57], mode=BUILD, duration=0:00:02.177, duration_ms=2177, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 13:58:58], mode=BUILD, duration=0:00:00.326, duration_ms=326, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:01:51], mode=BUILD, duration=0:00:02.493, duration_ms=2493, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:01:53], mode=BUILD, duration=0:00:00.328, duration_ms=328, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:02:33], mode=BUILD, duration=0:00:06.109, duration_ms=6109, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:02:35], mode=BUILD, duration=0:00:00.693, duration_ms=693, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:03:25], mode=BUILD, duration=0:00:05.531, duration_ms=5531, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:03:26], mode=BUILD, duration=0:00:00.324, duration_ms=324, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:03:47], mode=BUILD, duration=0:00:05.484, duration_ms=5484, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:03:48], mode=BUILD, duration=0:00:00.339, duration_ms=339, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:04:04], mode=BUILD, duration=0:00:05.436, duration_ms=5436, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:04:05], mode=BUILD, duration=0:00:00.318, duration_ms=318, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:04:17], mode=BUILD, duration=0:00:01.572, duration_ms=1572, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:04:18], mode=BUILD, duration=0:00:00.378, duration_ms=378, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:05:45], mode=BUILD, duration=0:00:05.117, duration_ms=5117, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:05:46], mode=BUILD, duration=0:00:00.313, duration_ms=313, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:10:20], mode=BUILD, duration=0:00:06.199, duration_ms=6199, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:10:21], mode=BUILD, duration=0:00:00.376, duration_ms=376, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:16:39], mode=BUILD, duration=0:00:03.310, duration_ms=3310, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:16:41], mode=BUILD, duration=0:00:00.377, duration_ms=377, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:38:02], mode=BUILD, duration=0:00:02.636, duration_ms=2636, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:38:02], mode=BUILD, duration=0:00:00.248, duration_ms=248, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:44:12], mode=BUILD, duration=0:00:00.882, duration_ms=882, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:44:13], mode=BUILD, duration=0:00:00.279, duration_ms=279, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:44:31], mode=BUILD, duration=0:00:01.924, duration_ms=1924, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:44:32], mode=BUILD, duration=0:00:00.257, duration_ms=257, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:46:00], mode=BUILD, duration=0:00:02.063, duration_ms=2063, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 14:46:01], mode=BUILD, duration=0:00:00.247, duration_ms=247, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:01:25], mode=BUILD, duration=0:00:04.376, duration_ms=4376, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:01:59], mode=BUILD, duration=0:00:02.033, duration_ms=2033, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:02:00], mode=BUILD, duration=0:00:00.255, duration_ms=255, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:17:28], mode=BUILD, duration=0:00:02.053, duration_ms=2053, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:17:29], mode=BUILD, duration=0:00:00.278, duration_ms=278, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:24:08], mode=BUILD, duration=0:00:02.002, duration_ms=2002, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:24:09], mode=BUILD, duration=0:00:00.255, duration_ms=255, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:36:32], mode=BUILD, duration=0:00:04.336, duration_ms=4336, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:36:33], mode=BUILD, duration=0:00:00.256, duration_ms=256, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:55:13], mode=BUILD, duration=0:00:01.968, duration_ms=1968, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 15:55:14], mode=BUILD, duration=0:00:00.241, duration_ms=241, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 18:20:15], mode=PLATFORM_GENERATION, duration=0:00:19.707, duration_ms=19707, data={name=main_design_wrapper}
+timestamp=[2022-08-01 18:20:35], mode=PLATFORM_GENERATION, duration=0:00:15.320, duration_ms=15320, data={name=main_design_wrapper}
+timestamp=[2022-08-01 18:21:25], mode=PLATFORM_GENERATION, duration=0:00:35.770, duration_ms=35770, data={name=main_design_wrapper}
+timestamp=[2022-08-01 18:22:13], mode=PLATFORM_GENERATION, duration=0:00:17.571, duration_ms=17571, data={name=main_design_wrapper}
+timestamp=[2022-08-01 18:22:14], mode=BUILD, duration=0:00:00.696, duration_ms=696, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-01 18:22:14], mode=BUILD, duration=0:00:00.682, duration_ms=682, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-08-01 18:22:47], mode=PLATFORM_GENERATION, duration=0:00:32.386, duration_ms=32386, data={name=main_design_wrapper}
+timestamp=[2022-08-01 18:23:07], mode=BUILD, duration=0:00:14.932, duration_ms=14932, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-01 18:23:24], mode=BUILD, duration=0:00:00.325, duration_ms=325, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:06:10], mode=WORKBENCH_START, duration=0:00:16.930, duration_ms=16930, data={}
+timestamp=[2022-08-02 09:06:11], mode=WORKBENCH_UI_INIT, duration=0:00:01.041, duration_ms=1041, data={editors_count=10, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,S4e_Depart_Code_Vitis,S4e_Depart_Code_Vitis_system,main_design_wrapper}
+timestamp=[2022-08-02 09:06:12], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.160, duration_ms=160, data={}
+timestamp=[2022-08-02 09:37:00], mode=BUILD, duration=0:00:00.969, duration_ms=969, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 09:37:09], mode=BUILD, duration=0:00:01.300, duration_ms=1300, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:37:10], mode=BUILD, duration=0:00:00.306, duration_ms=306, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:37:27], mode=BUILD, duration=0:00:01.453, duration_ms=1453, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:37:28], mode=BUILD, duration=0:00:00.327, duration_ms=327, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:43:17], mode=BUILD, duration=0:00:14.528, duration_ms=14528, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:43:17], mode=BUILD, duration=0:00:00.261, duration_ms=261, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:47:32], mode=BUILD, duration=0:00:03.819, duration_ms=3819, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:47:34], mode=BUILD, duration=0:00:00.325, duration_ms=325, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:49:59], mode=BUILD, duration=0:00:02.240, duration_ms=2240, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:50:00], mode=BUILD, duration=0:00:00.276, duration_ms=276, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:50:42], mode=BUILD, duration=0:00:03.119, duration_ms=3119, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:50:43], mode=BUILD, duration=0:00:00.328, duration_ms=328, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:55:24], mode=BUILD, duration=0:00:03.476, duration_ms=3476, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 09:55:25], mode=BUILD, duration=0:00:00.310, duration_ms=310, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:23:02], mode=BUILD, duration=0:00:05.097, duration_ms=5097, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:23:03], mode=BUILD, duration=0:00:00.351, duration_ms=351, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:24:24], mode=BUILD, duration=0:00:02.867, duration_ms=2867, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:24:25], mode=BUILD, duration=0:00:00.338, duration_ms=338, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:29:08], mode=BUILD, duration=0:00:03.154, duration_ms=3154, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:29:09], mode=BUILD, duration=0:00:00.291, duration_ms=291, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:32:36], mode=BUILD, duration=0:00:02.690, duration_ms=2690, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:32:37], mode=BUILD, duration=0:00:00.273, duration_ms=273, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:35:09], mode=BUILD, duration=0:00:02.721, duration_ms=2721, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:35:10], mode=BUILD, duration=0:00:00.322, duration_ms=322, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:35:46], mode=BUILD, duration=0:00:02.162, duration_ms=2162, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:35:47], mode=BUILD, duration=0:00:00.351, duration_ms=351, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:36:09], mode=BUILD, duration=0:00:02.528, duration_ms=2528, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:36:10], mode=BUILD, duration=0:00:00.269, duration_ms=269, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:39:51], mode=BUILD, duration=0:00:03.109, duration_ms=3109, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:39:52], mode=BUILD, duration=0:00:00.281, duration_ms=281, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:47:40], mode=BUILD, duration=0:00:00.664, duration_ms=664, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 10:47:41], mode=BUILD, duration=0:00:00.352, duration_ms=352, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:06:44], mode=BUILD, duration=0:00:02.779, duration_ms=2779, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:06:45], mode=BUILD, duration=0:00:00.277, duration_ms=277, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:08:16], mode=BUILD, duration=0:00:02.456, duration_ms=2456, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:08:17], mode=BUILD, duration=0:00:00.333, duration_ms=333, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:21:15], mode=BUILD, duration=0:00:03.465, duration_ms=3465, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:21:16], mode=BUILD, duration=0:00:00.266, duration_ms=266, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:38:32], mode=BUILD, duration=0:00:03.323, duration_ms=3323, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:38:34], mode=BUILD, duration=0:00:00.341, duration_ms=341, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:40:20], mode=BUILD, duration=0:00:02.502, duration_ms=2502, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 11:40:21], mode=BUILD, duration=0:00:00.342, duration_ms=342, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:26:36], mode=PLATFORM_GENERATION, duration=0:00:08.060, duration_ms=8060, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:27:05], mode=PLATFORM_GENERATION, duration=0:00:22.019, duration_ms=22019, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:27:18], mode=PLATFORM_GENERATION, duration=0:00:08.823, duration_ms=8823, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:27:19], mode=BUILD, duration=0:00:00.417, duration_ms=417, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 12:27:19], mode=BUILD, duration=0:00:00.293, duration_ms=293, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 12:27:52], mode=PLATFORM_GENERATION, duration=0:00:20.441, duration_ms=20441, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:28:02], mode=BUILD, duration=0:00:05.835, duration_ms=5835, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:28:14], mode=BUILD, duration=0:00:00.312, duration_ms=312, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:30:33], mode=PLATFORM_GENERATION, duration=0:00:07.792, duration_ms=7792, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:30:56], mode=PLATFORM_GENERATION, duration=0:00:20.217, duration_ms=20217, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:31:02], mode=BUILD, duration=0:00:00.359, duration_ms=359, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 12:31:12], mode=BUILD, duration=0:00:05.789, duration_ms=5789, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:31:13], mode=BUILD, duration=0:00:00.231, duration_ms=231, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:31:29], mode=PLATFORM_GENERATION, duration=0:00:08.153, duration_ms=8153, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:31:30], mode=BUILD, duration=0:00:00.358, duration_ms=358, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 12:31:30], mode=BUILD, duration=0:00:00.285, duration_ms=285, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 12:31:56], mode=PLATFORM_GENERATION, duration=0:00:21.185, duration_ms=21185, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:32:02], mode=BUILD, duration=0:00:05.870, duration_ms=5870, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:32:03], mode=BUILD, duration=0:00:00.254, duration_ms=254, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:36:10], mode=BUILD, duration=0:00:00.681, duration_ms=681, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:36:11], mode=BUILD, duration=0:00:00.229, duration_ms=229, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:36:30], mode=BUILD, duration=0:00:03.762, duration_ms=3762, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:36:30], mode=BUILD, duration=0:00:00.233, duration_ms=233, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:37:33], mode=BUILD, duration=0:00:00.715, duration_ms=715, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:37:33], mode=BUILD, duration=0:00:00.236, duration_ms=236, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:37:53], mode=BUILD, duration=0:00:01.802, duration_ms=1802, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:37:54], mode=BUILD, duration=0:00:00.312, duration_ms=312, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:41:31], mode=BUILD, duration=0:00:00.357, duration_ms=357, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 12:41:37], mode=BUILD, duration=0:00:05.549, duration_ms=5549, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:41:37], mode=BUILD, duration=0:00:00.296, duration_ms=296, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:43:35], mode=BUILD, duration=0:00:00.659, duration_ms=659, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:43:35], mode=BUILD, duration=0:00:00.262, duration_ms=262, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:44:44], mode=PLATFORM_GENERATION, duration=0:00:08.137, duration_ms=8137, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:45:10], mode=PLATFORM_GENERATION, duration=0:00:22.595, duration_ms=22595, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:45:39], mode=PLATFORM_GENERATION, duration=0:00:08.098, duration_ms=8098, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:45:39], mode=BUILD, duration=0:00:00.366, duration_ms=366, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 12:45:40], mode=BUILD, duration=0:00:00.300, duration_ms=300, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 12:46:03], mode=PLATFORM_GENERATION, duration=0:00:20.919, duration_ms=20919, data={name=main_design_wrapper}
+timestamp=[2022-08-02 12:46:17], mode=BUILD, duration=0:00:09.864, duration_ms=9864, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 12:46:28], mode=BUILD, duration=0:00:00.227, duration_ms=227, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 13:04:27], mode=BUILD, duration=0:00:00.432, duration_ms=432, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 13:04:27], mode=BUILD, duration=0:00:00.220, duration_ms=220, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 13:10:13], mode=BUILD, duration=0:00:00.431, duration_ms=431, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 13:10:14], mode=BUILD, duration=0:00:00.222, duration_ms=222, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 13:12:40], mode=BUILD, duration=0:00:01.713, duration_ms=1713, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 13:12:41], mode=BUILD, duration=0:00:00.233, duration_ms=233, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 13:46:51], mode=BUILD, duration=0:00:01.777, duration_ms=1777, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 13:46:52], mode=BUILD, duration=0:00:00.236, duration_ms=236, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 14:00:41], mode=BUILD, duration=0:00:02.216, duration_ms=2216, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 14:00:41], mode=BUILD, duration=0:00:00.238, duration_ms=238, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 14:50:00], mode=PLATFORM_GENERATION, duration=0:00:08.454, duration_ms=8454, data={name=main_design_wrapper}
+timestamp=[2022-08-02 14:50:27], mode=PLATFORM_GENERATION, duration=0:00:22.845, duration_ms=22845, data={name=main_design_wrapper}
+timestamp=[2022-08-02 14:50:57], mode=PLATFORM_GENERATION, duration=0:00:08.392, duration_ms=8392, data={name=main_design_wrapper}
+timestamp=[2022-08-02 14:50:57], mode=BUILD, duration=0:00:00.369, duration_ms=369, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 14:50:57], mode=BUILD, duration=0:00:00.297, duration_ms=297, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 14:51:23], mode=PLATFORM_GENERATION, duration=0:00:20.696, duration_ms=20696, data={name=main_design_wrapper}
+timestamp=[2022-08-02 14:51:33], mode=BUILD, duration=0:00:05.707, duration_ms=5707, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 14:51:44], mode=BUILD, duration=0:00:00.231, duration_ms=231, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 15:01:46], mode=BUILD, duration=0:00:00.383, duration_ms=383, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 15:01:55], mode=BUILD, duration=0:00:08.583, duration_ms=8583, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 15:03:47], mode=BUILD, duration=0:00:00.741, duration_ms=741, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 15:04:16], mode=BUILD, duration=0:00:01.670, duration_ms=1670, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 15:05:52], mode=PLATFORM_GENERATION, duration=0:00:07.856, duration_ms=7856, data={name=main_design_wrapper}
+timestamp=[2022-08-02 15:05:52], mode=BUILD, duration=0:00:00.378, duration_ms=378, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 15:05:52], mode=BUILD, duration=0:00:00.308, duration_ms=308, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-08-02 15:07:06], mode=PLATFORM_GENERATION, duration=0:00:20.336, duration_ms=20336, data={name=main_design_wrapper}
+timestamp=[2022-08-02 15:07:13], mode=BUILD, duration=0:00:07.391, duration_ms=7391, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-02 15:09:21], mode=PLATFORM_GENERATION, duration=0:00:02.861, duration_ms=2861, data={name=main_design_wrapper}
+timestamp=[2022-08-03 09:33:58], mode=BUILD, duration=0:00:01.213, duration_ms=1213, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-03 09:34:11], mode=BUILD, duration=0:00:12.645, duration_ms=12645, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-03 09:34:12], mode=BUILD, duration=0:00:00.256, duration_ms=256, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-03 11:52:59], mode=WORKBENCH_START, duration=0:00:12.649, duration_ms=12649, data={}
+timestamp=[2022-08-03 11:53:00], mode=WORKBENCH_UI_INIT, duration=0:00:00.702, duration_ms=702, data={editors_count=4, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-08-03 11:53:09], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:07.894, duration_ms=7894, data={}
+timestamp=[2022-08-03 12:27:40], mode=WORKBENCH_START, duration=0:00:09.468, duration_ms=9468, data={}
+timestamp=[2022-08-03 12:27:41], mode=WORKBENCH_UI_INIT, duration=0:00:00.985, duration_ms=985, data={editors_count=4, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2022-08-03 12:27:46], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:04.340, duration_ms=4340, data={}
+timestamp=[2022-08-03 12:33:12], mode=PLATFORM_GENERATION, duration=0:00:17.816, duration_ms=17816, data={name=main_design_wrapper}
+timestamp=[2022-08-03 12:33:43], mode=PLATFORM_GENERATION, duration=0:00:20.816, duration_ms=20816, data={name=main_design_wrapper}
+timestamp=[2022-08-03 12:33:59], mode=PLATFORM_GENERATION, duration=0:00:07.322, duration_ms=7322, data={name=main_design_wrapper}
+timestamp=[2022-08-03 12:33:59], mode=BUILD, duration=0:00:00.677, duration_ms=677, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=true}
+timestamp=[2022-08-03 12:34:00], mode=BUILD, duration=0:00:00.253, duration_ms=253, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=true}
+timestamp=[2022-08-03 12:34:31], mode=PLATFORM_GENERATION, duration=0:00:20.266, duration_ms=20266, data={name=main_design_wrapper}
+timestamp=[2022-08-03 12:34:42], mode=BUILD, duration=0:00:07.321, duration_ms=7321, data={name=S4e_Depart_Code_Vitis, configuration=Debug, clean_build=false}
+timestamp=[2022-08-03 12:34:43], mode=BUILD, duration=0:00:00.216, duration_ms=216, data={name=S4e_Depart_Code_Vitis_system, configuration=Debug, clean_build=false}
+timestamp=[2022-08-03 16:30:54], mode=WORKBENCH_START, duration=0:00:23.355, duration_ms=23355, data={}
+timestamp=[2022-08-03 16:30:55], mode=WORKBENCH_UI_INIT, duration=0:00:01.192, duration_ms=1192, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,S4e_Depart_Code_Vitis,S4e_Depart_Code_Vitis_system,main_design_wrapper}
+timestamp=[2022-08-03 16:30:56], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.097, duration_ms=97, data={}
+timestamp=[2022-08-04 09:18:08], mode=WORKBENCH_START, duration=0:00:22.867, duration_ms=22867, data={}
+timestamp=[2022-08-04 09:18:09], mode=WORKBENCH_UI_INIT, duration=0:00:01.087, duration_ms=1087, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,S4e_Depart_Code_Vitis,S4e_Depart_Code_Vitis_system,main_design_wrapper}
+timestamp=[2022-08-04 09:18:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.216, duration_ms=216, data={}
